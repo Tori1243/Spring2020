@@ -10,7 +10,6 @@ public class Movement : MonoBehaviour
     public float JumpSpeed = 4.0f;
     private Vector3 rot;
     private Vector3 position;
-    //private Vector3 rotation;
 
     void Start()
     {
@@ -22,10 +21,18 @@ public class Movement : MonoBehaviour
         if (Controller.isGrounded)
         {
             position.Set(MoveSpeed * Input.GetAxis("Horizontal"), 0, MoveSpeed * Input.GetAxis("Vertical"));
-            // rotation.Set(0, Input.GetAxis("Vertical"), 0);
-            // transform.Rotate(rotation);
             position = transform.TransformDirection(position);
             print(position);
+            rot.y = 180;
+        if (Input.GetKey(KeyCode.RightArrow))
+            {
+                transform.rotation = Quaternion.Euler(rot);
+            }
+
+            if (Input.GetKey(KeyCode.LeftArrow))
+            {
+                transform.rotation = Quaternion.Euler(rot);
+            }
 
             if (Input.GetButton("Jump"))
             {

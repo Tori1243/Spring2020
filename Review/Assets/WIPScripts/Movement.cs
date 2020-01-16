@@ -24,20 +24,24 @@ public class Movement : MonoBehaviour
             position = transform.TransformDirection(position);
             print(position);
             rot.y = 180;
-        if (Input.GetKey(KeyCode.RightArrow))
-            {
-                transform.rotation = Quaternion.Euler(rot);
-            }
+            
+      //  if (Input.GetKey(KeyCode.RightArrow))
+         //   {
+          //      rot.y = 180;
+          //      transform.rotation = Quaternion.Euler(rot);
+          //  }
 
-            if (Input.GetKey(KeyCode.LeftArrow))
-            {
-                transform.rotation = Quaternion.Euler(rot);
-            }
+           // if (Input.GetKey(KeyCode.LeftArrow))
+          //  {
+               // rot.y = 0;
+              //  transform.rotation = Quaternion.Euler(rot);
+        //    }
+            // ^^ these are broken for now :(
 
-            if (Input.GetButton("Jump"))
-            {
-                position.y = JumpSpeed;
-            }
+         if (Input.GetButton("Jump"))
+              {
+               position.y = JumpSpeed;
+              }
         }
         
         position.y -= Gravity * Time.deltaTime;

@@ -25,18 +25,6 @@ public class Movement : MonoBehaviour
             print(position);
             rot.y = 180;
             
-      //  if (Input.GetKey(KeyCode.RightArrow))
-         //   {
-          //      rot.y = 180;
-          //      transform.rotation = Quaternion.Euler(rot);
-          //  }
-
-           // if (Input.GetKey(KeyCode.LeftArrow))
-          //  {
-               // rot.y = 0;
-              //  transform.rotation = Quaternion.Euler(rot);
-        //    }
-            // ^^ these are broken for now :(
 
          if (Input.GetButton("Jump"))
               {

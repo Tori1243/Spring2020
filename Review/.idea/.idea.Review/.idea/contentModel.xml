@@ -6,6 +6,8 @@
       <e p="Assets" t="Include">
         <e p="Scripts that Work" t="Include">
           <e p="Destroy.cs" t="Include" />
+          <e p="IDFinder.cs" t="Include" />
+          <e p="NameID.cs" t="Include" />
         </e>
         <e p="WIPScripts" t="Include">
           <e p="FlippityFlip.cs" t="Include" />

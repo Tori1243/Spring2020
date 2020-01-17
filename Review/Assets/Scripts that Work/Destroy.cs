@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using UnityEngine.Events;
 
-public class DestroyObject : MonoBehaviour
+public class Destroy : MonoBehaviour
 {
     public UnityEvent ClickEvent;
 

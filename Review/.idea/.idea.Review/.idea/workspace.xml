@@ -14,29 +14,29 @@
         <counts>
           <entry key="project.closed" value="3" />
           <entry key="project.open.time.1" value="1" />
-          <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.11" value="2" />
           <entry key="project.open.time.13" value="1" />
-          <entry key="project.opened" value="3" />
+          <entry key="project.opened" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="cs" value="582" />
+          <entry key="cs" value="922" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="C#" value="582" />
+          <entry key="C#" value="922" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="cs" value="9" />
+          <entry key="cs" value="11" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="C#" value="9" />
+          <entry key="C#" value="11" />
         </counts>
       </usages-collector>
     </session>
@@ -49,6 +49,7 @@
             <state>
               <folding>
                 <marker date="1579144008617" expanded="false" signature="6:44" ph="..." />
+                <marker date="1579144008617" expanded="true" signature="88:228" ph="{...}" />
                 <marker date="1579144008617" expanded="true" signature="156:226" ph="{...}" />
               </folding>
             </state>
@@ -72,24 +73,9 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/WIPScripts/FlippityFlip.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="25" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
-              <folding>
-                <marker date="1579145827323" expanded="true" signature="60:469" ph="{...}" />
-                <marker date="1579145827323" expanded="true" signature="114:466" ph="{...}" />
-                <marker date="1579145827323" expanded="true" signature="174:291" ph="{...}" />
-                <marker date="1579145827323" expanded="true" signature="341:456" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts that Work/IDFinder.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
+            <state relative-caret-position="60">
               <caret line="4" column="21" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
               <folding>
                 <marker date="1579146092243" expanded="true" signature="57:88" ph="{...}" />
@@ -134,23 +120,50 @@
             <state relative-caret-position="135">
               <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
               <folding>
-                <marker date="1579236764968" expanded="true" signature="62:128" ph="{...}" />
                 <marker date="1579236764968" expanded="true" signature="86:126" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/WIPScripts/MusicControl.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="330">
-              <caret line="22" column="1" lean-forward="true" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
+              <caret line="22" column="1" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
               <folding>
-                <marker date="1579236861675" expanded="true" signature="60:429" ph="{...}" />
                 <marker date="1579236861675" expanded="true" signature="126:239" ph="{...}" />
                 <marker date="1579236861675" expanded="true" signature="272:357" ph="{...}" />
                 <marker date="1579236861675" expanded="true" signature="386:427" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/WIPScripts/Attack.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="17" column="1" lean-forward="true" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+              <folding>
+                <marker date="1579295093140" expanded="true" signature="55:244" ph="{...}" />
+                <marker date="1579295093140" expanded="true" signature="137:242" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/WIPScripts/Health.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <marker date="1579295069492" expanded="true" signature="6:44" ph="..." />
+                <marker date="1579295069492" expanded="true" signature="82:466" ph="{...}" />
+                <marker date="1579295069492" expanded="true" signature="191:262" ph="{...}" />
+                <marker date="1579295069492" expanded="true" signature="291:463" ph="{...}" />
+                <marker date="1579295069492" expanded="true" signature="351:404" ph="{...}" />
+                <marker date="1579295069492" expanded="true" signature="417:457" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -161,6 +174,9 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="90">
               <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+              <folding>
+                <marker date="1579146197674" expanded="true" signature="76:84" ph="{...}" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -174,7 +190,9 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts that Work/NameID.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts that Work/DragAndDestroy.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/WIPScripts/MusicControl.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/WIPScripts/Health.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts that Work/Destroy.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/WIPScripts/Attack.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/WIPScripts/Movement.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts that Work/IDFinder.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/WIPScripts/ExitPlay.cs" root0="FORCE_HIGHLIGHTING" />
@@ -193,6 +211,8 @@
         <option value="$PROJECT_DIR$/Assets/Scripts that Work/DragAndDestroy.cs" />
         <option value="$PROJECT_DIR$/Assets/WIPScripts/ExitPlay.cs" />
         <option value="$PROJECT_DIR$/Assets/WIPScripts/MusicControl.cs" />
+        <option value="$PROJECT_DIR$/Assets/WIPScripts/Health.cs" />
+        <option value="$PROJECT_DIR$/Assets/WIPScripts/Attack.cs" />
       </list>
     </option>
   </component>
@@ -203,8 +223,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="290" />
-    <option name="y" value="62" />
+    <option name="x" value="186" />
+    <option name="y" value="46" />
     <option name="width" value="759" />
     <option name="height" value="802" />
   </component>
@@ -214,13 +234,13 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="FileSystemExplorer" />
-      <pane id="UnityExplorer">
-        <option name="show-hidden-items" value="false" />
-      </pane>
       <pane id="SolutionExplorer">
         <option name="show-all-files" value="false" />
       </pane>
+      <pane id="UnityExplorer">
+        <option name="show-hidden-items" value="false" />
+      </pane>
+      <pane id="FileSystemExplorer" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -269,11 +289,12 @@
       <workItem from="1579143716118" duration="383000" />
       <workItem from="1579144149795" duration="2180000" />
       <workItem from="1579236547235" duration="317000" />
+      <workItem from="1579294073705" duration="1016000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2880000" />
+    <option name="totallyTimeSpent" value="3896000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -285,10 +306,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="290" y="62" width="759" height="802" extended-state="0" />
+    <frame x="186" y="46" width="759" height="802" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24965133" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25662482" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -333,30 +354,6 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Assets/WIPScripts/IDFinder.cs" />
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts that Work/Destroy.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <marker date="1579144008617" expanded="false" signature="6:44" ph="..." />
-            <marker date="1579144008617" expanded="true" signature="156:226" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/WIPScripts/Movement.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" column="12" selection-start-line="26" selection-start-column="12" selection-end-line="26" selection-end-column="12" />
-          <folding>
-            <marker date="1579145091658" expanded="true" signature="105:954" ph="{...}" />
-            <marker date="1579145091658" expanded="true" signature="329:399" ph="{...}" />
-            <marker date="1579145091658" expanded="true" signature="418:951" ph="{...}" />
-            <marker date="1579145091658" expanded="true" signature="459:828" ph="{...}" />
-            <marker date="1579145091658" expanded="true" signature="747:818" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/WIPScripts/FlippityFlip.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
@@ -370,19 +367,45 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/WIPScripts/ExitPlay.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+          <folding>
+            <marker date="1579236764968" expanded="true" signature="86:126" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/WIPScripts/MusicControl.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="1" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
+          <folding>
+            <marker date="1579236861675" expanded="true" signature="126:239" ph="{...}" />
+            <marker date="1579236861675" expanded="true" signature="272:357" ph="{...}" />
+            <marker date="1579236861675" expanded="true" signature="386:427" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts that Work/Destroy.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1579144008617" expanded="false" signature="6:44" ph="..." />
+            <marker date="1579144008617" expanded="true" signature="88:228" ph="{...}" />
+            <marker date="1579144008617" expanded="true" signature="156:226" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts that Work/NameID.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts that Work/IDFinder.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="4" column="21" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
           <folding>
-            <marker date="1579146092243" expanded="true" signature="57:88" ph="{...}" />
+            <marker date="1579146197674" expanded="true" signature="76:84" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -413,26 +436,51 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/WIPScripts/ExitPlay.cs">
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts that Work/IDFinder.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+        <state relative-caret-position="60">
+          <caret line="4" column="21" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
           <folding>
-            <marker date="1579236764968" expanded="true" signature="62:128" ph="{...}" />
-            <marker date="1579236764968" expanded="true" signature="86:126" ph="{...}" />
+            <marker date="1579146092243" expanded="true" signature="57:88" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/WIPScripts/MusicControl.cs">
+    <entry file="file://$PROJECT_DIR$/Assets/WIPScripts/Movement.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="1" lean-forward="true" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
+        <state relative-caret-position="390">
+          <caret line="26" column="12" selection-start-line="26" selection-start-column="12" selection-end-line="26" selection-end-column="12" />
           <folding>
-            <marker date="1579236861675" expanded="true" signature="60:429" ph="{...}" />
-            <marker date="1579236861675" expanded="true" signature="126:239" ph="{...}" />
-            <marker date="1579236861675" expanded="true" signature="272:357" ph="{...}" />
-            <marker date="1579236861675" expanded="true" signature="386:427" ph="{...}" />
+            <marker date="1579145091658" expanded="true" signature="105:954" ph="{...}" />
+            <marker date="1579145091658" expanded="true" signature="329:399" ph="{...}" />
+            <marker date="1579145091658" expanded="true" signature="418:951" ph="{...}" />
+            <marker date="1579145091658" expanded="true" signature="459:828" ph="{...}" />
+            <marker date="1579145091658" expanded="true" signature="747:818" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/WIPScripts/Health.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1579295069492" expanded="true" signature="6:44" ph="..." />
+            <marker date="1579295069492" expanded="true" signature="82:466" ph="{...}" />
+            <marker date="1579295069492" expanded="true" signature="191:262" ph="{...}" />
+            <marker date="1579295069492" expanded="true" signature="291:463" ph="{...}" />
+            <marker date="1579295069492" expanded="true" signature="351:404" ph="{...}" />
+            <marker date="1579295069492" expanded="true" signature="417:457" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/WIPScripts/Attack.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="1" lean-forward="true" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+          <folding>
+            <marker date="1579295093140" expanded="true" signature="55:244" ph="{...}" />
+            <marker date="1579295093140" expanded="true" signature="137:242" ph="{...}" />
           </folding>
         </state>
       </provider>

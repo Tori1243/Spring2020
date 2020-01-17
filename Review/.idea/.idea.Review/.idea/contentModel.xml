@@ -5,7 +5,9 @@
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
         <e p="Scripts that Work" t="Include">
+          <e p="collison.cs" t="Include" />
           <e p="Destroy.cs" t="Include" />
+          <e p="DragAndDestroy.cs" t="Include" />
           <e p="IDFinder.cs" t="Include" />
           <e p="NameID.cs" t="Include" />
         </e>

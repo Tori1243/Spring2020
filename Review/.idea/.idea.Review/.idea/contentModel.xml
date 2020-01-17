@@ -15,6 +15,7 @@
           <e p="ExitPlay.cs" t="Include" />
           <e p="FlippityFlip.cs" t="Include" />
           <e p="Movement.cs" t="Include" />
+          <e p="MusicControl.cs" t="Include" />
         </e>
       </e>
       <e p="Library" t="ExcludeRecursive" />

@@ -7,6 +7,7 @@
         <e p="Scripts that Work" t="Include">
           <e p="collison.cs" t="Include" />
           <e p="Destroy.cs" t="Include" />
+          <e p="Dialouge.cs" t="Include" />
           <e p="DragAndDestroy.cs" t="Include" />
           <e p="IDFinder.cs" t="Include" />
           <e p="NameID.cs" t="Include" />
@@ -15,6 +16,7 @@
           <e p="Attack.cs" t="Include" />
           <e p="ExitPlay.cs" t="Include" />
           <e p="FlippityFlip.cs" t="Include" />
+          <e p="FollowCursor.cs" t="Include" />
           <e p="Health.cs" t="Include" />
           <e p="Movement.cs" t="Include" />
           <e p="MusicControl.cs" t="Include" />

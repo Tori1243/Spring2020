@@ -12,68 +12,38 @@
     <session id="-1573875398">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="6" />
+          <entry key="project.closed" value="7" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.11" value="3" />
-          <entry key="project.open.time.13" value="1" />
-          <entry key="project.opened" value="6" />
+          <entry key="project.open.time.13" value="2" />
+          <entry key="project.opened" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="cs" value="932" />
+          <entry key="cs" value="950" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="C#" value="932" />
+          <entry key="C#" value="950" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="cs" value="13" />
+          <entry key="cs" value="14" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="C#" value="13" />
+          <entry key="C#" value="14" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/Scripts that Work/Dialouge.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="30" column="1" selection-start-line="30" selection-start-column="1" selection-end-line="30" selection-end-column="1" />
-              <folding>
-                <marker date="1579407423699" expanded="true" signature="6:66" ph="..." />
-                <marker date="1579407423699" expanded="true" signature="222:397" ph="{...}" />
-                <marker date="1579407423699" expanded="true" signature="474:684" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/WIPScripts/FollowCursor.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="23" column="1" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
-              <folding>
-                <marker date="1579407628271" expanded="true" signature="6:44" ph="..." />
-                <marker date="1579407628271" expanded="true" signature="153:223" ph="{...}" />
-                <marker date="1579407628271" expanded="true" signature="249:417" ph="{...}" />
-                <marker date="1579407628271" expanded="true" signature="277:411" ph="{...}" />
-                <marker date="1579407628271" expanded="true" signature="447:483" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts that Work/IDFinder.cs">
           <provider selected="true" editor-type-id="text-editor">
@@ -141,7 +111,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/WIPScripts/Attack.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="255">
@@ -149,6 +119,30 @@
               <folding>
                 <marker date="1579295093140" expanded="true" signature="55:244" ph="{...}" />
                 <marker date="1579295093140" expanded="true" signature="137:242" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/WIPScripts/Storage.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <marker date="1579655957365" expanded="true" signature="77:218" ph="{...}" />
+                <marker date="1579655957365" expanded="true" signature="164:216" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/WIPScripts/Collect.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <marker date="1579655974061" expanded="true" signature="6:52" ph="..." />
+                <marker date="1579655974061" expanded="true" signature="120:176" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -186,11 +180,13 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/Scripts that Work/NameID.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts that Work/Dialouge.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/WIPScripts/Storage.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/WIPScripts/MusicControl.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/WIPScripts/Health.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/WIPScripts/Attack.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/WIPScripts/FollowCursor.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts that Work/IDFinder.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/WIPScripts/Collect.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts that Work/DragAndDestroy.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts that Work/Destroy.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/WIPScripts/Movement.cs" root0="FORCE_HIGHLIGHTING" />
@@ -214,6 +210,8 @@
         <option value="$PROJECT_DIR$/Assets/Scripts that Work/Destroy.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts that Work/Dialouge.cs" />
         <option value="$PROJECT_DIR$/Assets/WIPScripts/FollowCursor.cs" />
+        <option value="$PROJECT_DIR$/Assets/WIPScripts/Storage.cs" />
+        <option value="$PROJECT_DIR$/Assets/WIPScripts/Collect.cs" />
       </list>
     </option>
   </component>
@@ -224,8 +222,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="186" />
-    <option name="y" value="23" />
+    <option name="x" value="268" />
+    <option name="y" value="103" />
     <option name="width" value="759" />
     <option name="height" value="802" />
   </component>
@@ -235,13 +233,13 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="UnityExplorer">
+        <option name="show-hidden-items" value="false" />
+      </pane>
       <pane id="SolutionExplorer">
         <option name="show-all-files" value="false" />
       </pane>
       <pane id="FileSystemExplorer" />
-      <pane id="UnityExplorer">
-        <option name="show-hidden-items" value="false" />
-      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -293,11 +291,12 @@
       <workItem from="1579294073705" duration="1211000" />
       <workItem from="1579407373248" duration="348000" />
       <workItem from="1579627620252" duration="159000" />
+      <workItem from="1579655475670" duration="372000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4598000" />
+    <option name="totallyTimeSpent" value="4970000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -309,10 +308,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="186" y="23" width="759" height="802" extended-state="0" />
+    <frame x="268" y="103" width="759" height="802" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27057183" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27754533" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -352,6 +351,19 @@
           <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
           <option name="timeStamp" value="1" />
         </breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/WIPScripts/Storage.cs</url>
+          <line>11</line>
+          <properties documentPath="$PROJECT_DIR$/Assets/WIPScripts/Storage.cs" initialLine="13">
+            <startOffsets>
+              <option value="215" />
+            </startOffsets>
+            <endOffsets>
+              <option value="216" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
@@ -386,6 +398,20 @@
             <marker date="1579407423699" expanded="true" signature="6:66" ph="..." />
             <marker date="1579407423699" expanded="true" signature="222:397" ph="{...}" />
             <marker date="1579407423699" expanded="true" signature="474:684" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/WIPScripts/FollowCursor.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="1" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+          <folding>
+            <marker date="1579407628271" expanded="true" signature="6:44" ph="..." />
+            <marker date="1579407628271" expanded="true" signature="153:223" ph="{...}" />
+            <marker date="1579407628271" expanded="true" signature="249:417" ph="{...}" />
+            <marker date="1579407628271" expanded="true" signature="277:411" ph="{...}" />
+            <marker date="1579407628271" expanded="true" signature="447:483" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -467,20 +493,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/WIPScripts/FollowCursor.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="1" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
-          <folding>
-            <marker date="1579407628271" expanded="true" signature="6:44" ph="..." />
-            <marker date="1579407628271" expanded="true" signature="153:223" ph="{...}" />
-            <marker date="1579407628271" expanded="true" signature="249:417" ph="{...}" />
-            <marker date="1579407628271" expanded="true" signature="277:411" ph="{...}" />
-            <marker date="1579407628271" expanded="true" signature="447:483" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/WIPScripts/Attack.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
@@ -488,6 +500,26 @@
           <folding>
             <marker date="1579295093140" expanded="true" signature="55:244" ph="{...}" />
             <marker date="1579295093140" expanded="true" signature="137:242" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/WIPScripts/Storage.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1579655957365" expanded="true" signature="77:218" ph="{...}" />
+            <marker date="1579655957365" expanded="true" signature="164:216" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/WIPScripts/Collect.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1579655974061" expanded="true" signature="6:52" ph="..." />
+            <marker date="1579655974061" expanded="true" signature="120:176" ph="{...}" />
           </folding>
         </state>
       </provider>

@@ -14,12 +14,14 @@
         </e>
         <e p="WIPScripts" t="Include">
           <e p="Attack.cs" t="Include" />
+          <e p="Collect.cs" t="Include" />
           <e p="ExitPlay.cs" t="Include" />
           <e p="FlippityFlip.cs" t="Include" />
           <e p="FollowCursor.cs" t="Include" />
           <e p="Health.cs" t="Include" />
           <e p="Movement.cs" t="Include" />
           <e p="MusicControl.cs" t="Include" />
+          <e p="Storage.cs" t="Include" />
         </e>
       </e>
       <e p="Library" t="ExcludeRecursive" />

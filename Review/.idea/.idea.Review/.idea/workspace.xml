@@ -12,11 +12,12 @@
     <session id="-1573875398">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="5" />
+          <entry key="project.closed" value="6" />
           <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.11" value="3" />
           <entry key="project.open.time.13" value="1" />
-          <entry key="project.opened" value="5" />
+          <entry key="project.opened" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -50,7 +51,6 @@
               <caret line="30" column="1" selection-start-line="30" selection-start-column="1" selection-end-line="30" selection-end-column="1" />
               <folding>
                 <marker date="1579407423699" expanded="true" signature="6:66" ph="..." />
-                <marker date="1579407423699" expanded="true" signature="106:696" ph="{...}" />
                 <marker date="1579407423699" expanded="true" signature="222:397" ph="{...}" />
                 <marker date="1579407423699" expanded="true" signature="474:684" ph="{...}" />
               </folding>
@@ -58,14 +58,13 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/WIPScripts/FollowCursor.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="345">
-              <caret line="23" column="1" lean-forward="true" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+              <caret line="23" column="1" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
               <folding>
                 <marker date="1579407628271" expanded="true" signature="6:44" ph="..." />
-                <marker date="1579407628271" expanded="true" signature="86:485" ph="{...}" />
                 <marker date="1579407628271" expanded="true" signature="153:223" ph="{...}" />
                 <marker date="1579407628271" expanded="true" signature="249:417" ph="{...}" />
                 <marker date="1579407628271" expanded="true" signature="277:411" ph="{...}" />
@@ -142,7 +141,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/WIPScripts/Attack.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="255">
@@ -236,12 +235,12 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="UnityExplorer">
-        <option name="show-hidden-items" value="false" />
-      </pane>
-      <pane id="FileSystemExplorer" />
       <pane id="SolutionExplorer">
         <option name="show-all-files" value="false" />
+      </pane>
+      <pane id="FileSystemExplorer" />
+      <pane id="UnityExplorer">
+        <option name="show-hidden-items" value="false" />
       </pane>
     </panes>
   </component>
@@ -293,11 +292,12 @@
       <workItem from="1579236547235" duration="317000" />
       <workItem from="1579294073705" duration="1211000" />
       <workItem from="1579407373248" duration="348000" />
+      <workItem from="1579627620252" duration="159000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4439000" />
+    <option name="totallyTimeSpent" value="4598000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -312,7 +312,7 @@
     <frame x="186" y="23" width="759" height="802" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26359832" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27057183" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -368,10 +368,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="3" column="20" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
-          <folding>
-            <marker date="1579295181413" expanded="false" signature="6:44" ph="..." />
-            <marker date="1579295181413" expanded="true" signature="150:220" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -379,12 +375,17 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="390">
           <caret line="26" column="12" selection-start-line="26" selection-start-column="12" selection-end-line="26" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts that Work/Dialouge.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="30" column="1" selection-start-line="30" selection-start-column="1" selection-end-line="30" selection-end-column="1" />
           <folding>
-            <marker date="1579145091658" expanded="true" signature="105:954" ph="{...}" />
-            <marker date="1579145091658" expanded="true" signature="329:399" ph="{...}" />
-            <marker date="1579145091658" expanded="true" signature="418:951" ph="{...}" />
-            <marker date="1579145091658" expanded="true" signature="459:828" ph="{...}" />
-            <marker date="1579145091658" expanded="true" signature="747:818" ph="{...}" />
+            <marker date="1579407423699" expanded="true" signature="6:66" ph="..." />
+            <marker date="1579407423699" expanded="true" signature="222:397" ph="{...}" />
+            <marker date="1579407423699" expanded="true" signature="474:684" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -446,17 +447,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/WIPScripts/Attack.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
-          <folding>
-            <marker date="1579295093140" expanded="true" signature="55:244" ph="{...}" />
-            <marker date="1579295093140" expanded="true" signature="137:242" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/WIPScripts/Health.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -477,30 +467,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts that Work/Dialouge.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="30" column="1" selection-start-line="30" selection-start-column="1" selection-end-line="30" selection-end-column="1" />
-          <folding>
-            <marker date="1579407423699" expanded="true" signature="6:66" ph="..." />
-            <marker date="1579407423699" expanded="true" signature="106:696" ph="{...}" />
-            <marker date="1579407423699" expanded="true" signature="222:397" ph="{...}" />
-            <marker date="1579407423699" expanded="true" signature="474:684" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/WIPScripts/FollowCursor.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
-          <caret line="23" column="1" lean-forward="true" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+          <caret line="23" column="1" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
           <folding>
             <marker date="1579407628271" expanded="true" signature="6:44" ph="..." />
-            <marker date="1579407628271" expanded="true" signature="86:485" ph="{...}" />
             <marker date="1579407628271" expanded="true" signature="153:223" ph="{...}" />
             <marker date="1579407628271" expanded="true" signature="249:417" ph="{...}" />
             <marker date="1579407628271" expanded="true" signature="277:411" ph="{...}" />
             <marker date="1579407628271" expanded="true" signature="447:483" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/WIPScripts/Attack.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+          <folding>
+            <marker date="1579295093140" expanded="true" signature="55:244" ph="{...}" />
+            <marker date="1579295093140" expanded="true" signature="137:242" ph="{...}" />
           </folding>
         </state>
       </provider>

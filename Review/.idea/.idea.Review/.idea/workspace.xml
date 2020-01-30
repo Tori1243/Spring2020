@@ -12,7 +12,7 @@
     <session id="-1573875398">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="2" />
           <entry key="project.open.time.11" value="1" />
           <entry key="project.open.time.13" value="1" />
           <entry key="project.opened" value="2" />
@@ -57,11 +57,11 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/TutorialScripts/PlayerMovement.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="30" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
+            <state relative-caret-position="165">
+              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
               <folding>
-                <marker date="1580366734563" expanded="true" signature="63:213" ph="{...}" />
-                <marker date="1580366734563" expanded="true" signature="149:211" ph="{...}" />
+                <marker date="1580366824154" expanded="true" signature="63:173" ph="{...}" />
+                <marker date="1580366824154" expanded="true" signature="109:171" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -206,12 +206,12 @@
       <workItem from="1579655475670" duration="372000" />
       <workItem from="1579807331961" duration="5000" />
       <workItem from="1579814353953" duration="105000" />
-      <workItem from="1580366230635" duration="502000" />
+      <workItem from="1580366230635" duration="652000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="607000" />
+    <option name="totallyTimeSpent" value="757000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -223,7 +223,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="736" y="23" width="759" height="802" extended-state="0" />
+    <frame x="507" y="31" width="759" height="802" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25662482" />
@@ -308,11 +308,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/TutorialScripts/PlayerMovement.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="30" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
+        <state relative-caret-position="165">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
           <folding>
-            <marker date="1580366734563" expanded="true" signature="63:213" ph="{...}" />
-            <marker date="1580366734563" expanded="true" signature="149:211" ph="{...}" />
+            <marker date="1580366824154" expanded="true" signature="63:173" ph="{...}" />
+            <marker date="1580366824154" expanded="true" signature="109:171" ph="{...}" />
           </folding>
         </state>
       </provider>

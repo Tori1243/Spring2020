@@ -12,6 +12,9 @@
           <e p="IDFinder.cs" t="Include" />
           <e p="NameID.cs" t="Include" />
         </e>
+        <e p="TutorialScripts" t="Include">
+          <e p="PlayerMovement.cs" t="Include" />
+        </e>
         <e p="WIPScripts" t="Include">
           <e p="ActionCalls.cs" t="Include" />
           <e p="Attack.cs" t="Include" />

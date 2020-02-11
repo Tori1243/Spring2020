@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using UnityEngine.Events;
 
-public class Health : MonoBehaviour {
+public partial class Health : MonoBehaviour {
     public UnityEvent DeathEvent;
 
     public int health = 100;

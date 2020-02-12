@@ -25,70 +25,28 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="cs" value="2162" />
+          <entry key="cs" value="2476" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="C#" value="2162" />
+          <entry key="C#" value="2476" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="cs" value="9" />
+          <entry key="cs" value="12" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="C#" value="9" />
+          <entry key="C#" value="12" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/TutorialScripts/PlayerMovement.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" selection-start-line="11" selection-end-line="11" />
-              <folding>
-                <marker date="1580366824154" expanded="true" signature="63:173" ph="{...}" />
-                <marker date="1580366824154" expanded="true" signature="109:171" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/TutorialScripts/MovementPlayer.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="33" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
-              <folding>
-                <marker date="1581352448320" expanded="true" signature="63:1121" ph="{...}" />
-                <marker date="1581352448320" expanded="true" signature="448:1119" ph="{...}" />
-                <marker date="1581352448320" expanded="true" signature="589:639" ph="{...}" />
-                <marker date="1581352448320" expanded="true" signature="926:1011" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/Scripts that Work/AiPlayer.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="19" column="1" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
-              <folding>
-                <marker date="1581397820197" expanded="false" signature="6:40" ph="..." />
-                <marker date="1581397820197" expanded="true" signature="221:309" ph="{...}" />
-                <marker date="1581397820197" expanded="true" signature="340:432" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts that Work/LightChanger.cs">
           <provider selected="true" editor-type-id="text-editor">
@@ -111,8 +69,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts that Work/Healthy.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" selection-start-line="15" selection-end-line="15" />
+            <state relative-caret-position="120">
+              <caret line="8" column="33" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
               <folding>
                 <marker date="1581448307551" expanded="true" signature="78:234" ph="{...}" />
                 <marker date="1581448307551" expanded="true" signature="178:232" ph="{...}" />
@@ -121,23 +79,67 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/Desktop/SkullGame/SkullGame/LivingCurse/TheLivingCurse/Assets/Scripts/PlayerController.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
+              <folding>
+                <marker date="1581546380272" expanded="false" signature="6:78" ph="..." />
+                <marker date="1581546380272" expanded="true" signature="165:793" ph="{...}" />
+                <marker date="1581546380272" expanded="true" signature="312:379" ph="{...}" />
+                <marker date="1581546380272" expanded="true" signature="437:791" ph="{...}" />
+                <marker date="1581546380272" expanded="true" signature="484:785" ph="{...}" />
+                <marker date="1581546380272" expanded="true" signature="654:775" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts that Work/FloatData.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-20">
-              <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+            <state relative-caret-position="144">
+              <caret line="10" column="30" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
               <folding>
-                <marker date="1581448430630" expanded="true" signature="6:53" ph="..." />
-                <marker date="1581448430630" expanded="true" signature="198:1084" ph="{...}" />
-                <marker date="1581448430630" expanded="true" signature="276:345" ph="{...}" />
-                <marker date="1581448430630" expanded="true" signature="390:426" ph="{...}" />
-                <marker date="1581448430630" expanded="true" signature="469:506" ph="{...}" />
-                <marker date="1581448430630" expanded="true" signature="548:654" ph="{...}" />
-                <marker date="1581448430630" expanded="true" signature="693:798" ph="{...}" />
-                <marker date="1581448430630" expanded="true" signature="849:942" ph="{...}" />
-                <marker date="1581448430630" expanded="true" signature="886:936" ph="{...}" />
-                <marker date="1581448430630" expanded="true" signature="989:1082" ph="{...}" />
-                <marker date="1581448430630" expanded="true" signature="1026:1076" ph="{...}" />
+                <marker date="1581545649264" expanded="true" signature="6:53" ph="..." />
+                <marker date="1581545649264" expanded="true" signature="198:1001" ph="{...}" />
+                <marker date="1581545649264" expanded="true" signature="307:343" ph="{...}" />
+                <marker date="1581545649264" expanded="true" signature="386:423" ph="{...}" />
+                <marker date="1581545649264" expanded="true" signature="465:571" ph="{...}" />
+                <marker date="1581545649264" expanded="true" signature="610:715" ph="{...}" />
+                <marker date="1581545649264" expanded="true" signature="766:859" ph="{...}" />
+                <marker date="1581545649264" expanded="true" signature="803:853" ph="{...}" />
+                <marker date="1581545649264" expanded="true" signature="906:999" ph="{...}" />
+                <marker date="1581545649264" expanded="true" signature="943:993" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts that Work/CameraFollows.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" column="26" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
+              <folding>
+                <marker date="1581550240059" expanded="true" signature="6:55" ph="..." />
+                <marker date="1581550240059" expanded="true" signature="99:549" ph="{...}" />
+                <marker date="1581550240059" expanded="true" signature="266:348" ph="{...}" />
+                <marker date="1581550240059" expanded="true" signature="383:547" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts that Work/CameraLookAt.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <marker date="1581550444206" expanded="true" signature="61:223" ph="{...}" />
+                <marker date="1581550444206" expanded="true" signature="118:148" ph="{...}" />
+                <marker date="1581550444206" expanded="true" signature="175:221" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -203,6 +205,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts that Work/BoolData.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts that Work/Destroy.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/WIPScripts/Movement.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/Desktop/SkullGame/SkullGame/LivingCurse/TheLivingCurse/Assets/Scripts/PlayerController.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts that Work/MouseLook.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$USER_HOME$/Desktop/SkullGame/SkullGame/LivingCurse/TheLivingCurse/Assets/Scripts/LightChanger.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts that Work/Collison.cs" root0="FORCE_HIGHLIGHTING" />
@@ -212,10 +215,12 @@
     <setting file="file://$PROJECT_DIR$/Assets/WIPScripts/FollowCursor.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts that Work/IDFinder.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts that Work/Healthy.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts that Work/CameraFollows.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/WIPScripts/Collect.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts that Work/DragAndDestroy.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/TutorialScripts/PlayerMovement.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/WIPScripts/ActionCalls.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts that Work/CameraLookAt.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/WIPScripts/ExitPlay.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/WIPScripts/FlippityFlip.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
@@ -250,7 +255,10 @@
         <option value="$USER_HOME$/Desktop/SkullGame/SkullGame/LivingCurse/TheLivingCurse/Assets/Scripts/LightChanger.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts that Work/Health.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts that Work/Healthy.cs" />
+        <option value="$USER_HOME$/Desktop/SkullGame/SkullGame/LivingCurse/TheLivingCurse/Assets/Scripts/PlayerController.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts that Work/FloatData.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts that Work/CameraFollows.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts that Work/CameraLookAt.cs" />
       </list>
     </option>
   </component>
@@ -273,7 +281,7 @@
     </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="280" />
+    <option name="x" value="356" />
     <option name="y" value="23" />
     <option name="width" value="868" />
     <option name="height" value="802" />
@@ -295,6 +303,11 @@
             <path>
               <item name="Project" type="e068e287:UnityExplorerRootNode" />
               <item name="Assets" type="48f920db:UnityExplorerNode$AssetsRoot" />
+            </path>
+            <path>
+              <item name="Project" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="48f920db:UnityExplorerNode$AssetsRoot" />
+              <item name="Scripts that Work" type="1045f7f1:UnityExplorerNode" />
             </path>
             <path>
               <item name="Project" type="e068e287:UnityExplorerRootNode" />
@@ -369,12 +382,12 @@
       <workItem from="1581429267048" duration="294000" />
       <workItem from="1581429585097" duration="963000" />
       <workItem from="1581447531765" duration="85000" />
-      <workItem from="1581447639284" duration="783000" />
+      <workItem from="1581447639284" duration="2561000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7974000" />
+    <option name="totallyTimeSpent" value="9752000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -386,7 +399,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="280" y="23" width="868" height="802" extended-state="0" />
+    <frame x="356" y="23" width="868" height="802" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29661018" />
@@ -569,8 +582,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts that Work/Healthy.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        <state relative-caret-position="120">
+          <caret line="8" column="33" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
           <folding>
             <marker date="1581448307551" expanded="true" signature="78:234" ph="{...}" />
             <marker date="1581448307551" expanded="true" signature="178:232" ph="{...}" />
@@ -578,22 +591,60 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$USER_HOME$/Desktop/SkullGame/SkullGame/LivingCurse/TheLivingCurse/Assets/Scripts/PlayerController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+          <folding>
+            <marker date="1581546380272" expanded="false" signature="6:78" ph="..." />
+            <marker date="1581546380272" expanded="true" signature="165:793" ph="{...}" />
+            <marker date="1581546380272" expanded="true" signature="312:379" ph="{...}" />
+            <marker date="1581546380272" expanded="true" signature="437:791" ph="{...}" />
+            <marker date="1581546380272" expanded="true" signature="484:785" ph="{...}" />
+            <marker date="1581546380272" expanded="true" signature="654:775" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts that Work/FloatData.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-20">
-          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        <state relative-caret-position="144">
+          <caret line="10" column="30" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
           <folding>
-            <marker date="1581448430630" expanded="true" signature="6:53" ph="..." />
-            <marker date="1581448430630" expanded="true" signature="198:1084" ph="{...}" />
-            <marker date="1581448430630" expanded="true" signature="276:345" ph="{...}" />
-            <marker date="1581448430630" expanded="true" signature="390:426" ph="{...}" />
-            <marker date="1581448430630" expanded="true" signature="469:506" ph="{...}" />
-            <marker date="1581448430630" expanded="true" signature="548:654" ph="{...}" />
-            <marker date="1581448430630" expanded="true" signature="693:798" ph="{...}" />
-            <marker date="1581448430630" expanded="true" signature="849:942" ph="{...}" />
-            <marker date="1581448430630" expanded="true" signature="886:936" ph="{...}" />
-            <marker date="1581448430630" expanded="true" signature="989:1082" ph="{...}" />
-            <marker date="1581448430630" expanded="true" signature="1026:1076" ph="{...}" />
+            <marker date="1581545649264" expanded="true" signature="6:53" ph="..." />
+            <marker date="1581545649264" expanded="true" signature="198:1001" ph="{...}" />
+            <marker date="1581545649264" expanded="true" signature="307:343" ph="{...}" />
+            <marker date="1581545649264" expanded="true" signature="386:423" ph="{...}" />
+            <marker date="1581545649264" expanded="true" signature="465:571" ph="{...}" />
+            <marker date="1581545649264" expanded="true" signature="610:715" ph="{...}" />
+            <marker date="1581545649264" expanded="true" signature="766:859" ph="{...}" />
+            <marker date="1581545649264" expanded="true" signature="803:853" ph="{...}" />
+            <marker date="1581545649264" expanded="true" signature="906:999" ph="{...}" />
+            <marker date="1581545649264" expanded="true" signature="943:993" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts that Work/CameraFollows.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="26" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
+          <folding>
+            <marker date="1581550240059" expanded="true" signature="6:55" ph="..." />
+            <marker date="1581550240059" expanded="true" signature="99:549" ph="{...}" />
+            <marker date="1581550240059" expanded="true" signature="266:348" ph="{...}" />
+            <marker date="1581550240059" expanded="true" signature="383:547" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts that Work/CameraLookAt.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1581550444206" expanded="true" signature="61:223" ph="{...}" />
+            <marker date="1581550444206" expanded="true" signature="118:148" ph="{...}" />
+            <marker date="1581550444206" expanded="true" signature="175:221" ph="{...}" />
           </folding>
         </state>
       </provider>

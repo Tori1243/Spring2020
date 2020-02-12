@@ -7,14 +7,9 @@ using Object = UnityEngine.Object;
 [CreateAssetMenu(menuName = "Single Variables/FloatData")]
 public class FloatData : ScriptableObject
 {
-    [SerializeField] protected float value;
+    [SerializeField]
+    public virtual float Value { get; set; }
 
-    public virtual float Value
-    {
-        get => value;
-        set => this.value = value;
-    }
-    
     public void SetValue (float amount)
     {
         Value = amount;

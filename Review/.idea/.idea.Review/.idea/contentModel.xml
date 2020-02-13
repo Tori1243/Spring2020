@@ -15,11 +15,14 @@
           <e p="collison.cs" t="Include" />
           <e p="Destroy.cs" t="Include" />
           <e p="Dialouge.cs" t="Include" />
+          <e p="DoWork.cs" t="Include" />
           <e p="DragAndDestroy.cs" t="Include" />
           <e p="FloatData.cs" t="Include" />
           <e p="Healthy.cs" t="Include" />
-          <e p="IDFinder.cs" t="Include" />
+          <e p="IDBehaviour.cs" t="Include" />
           <e p="LightChanger.cs" t="Include" />
+          <e p="MatchIdBehavior.cs" t="Include" />
+          <e p="MathFunctions.cs" t="Include" />
           <e p="MouseLook.cs" t="Include" />
           <e p="NameID.cs" t="Include" />
         </e>

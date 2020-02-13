@@ -25,22 +25,22 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="cs" value="2478" />
+          <entry key="cs" value="2569" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="C#" value="2478" />
+          <entry key="C#" value="2569" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="cs" value="13" />
+          <entry key="cs" value="14" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="C#" value="13" />
+          <entry key="C#" value="14" />
         </counts>
       </usages-collector>
     </session>
@@ -52,7 +52,7 @@
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts that Work/Healthy.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state>
@@ -63,6 +63,31 @@
                 <marker date="1581550921998" expanded="true" signature="292:464" ph="{...}" />
                 <marker date="1581550921998" expanded="true" signature="352:405" ph="{...}" />
                 <marker date="1581550921998" expanded="true" signature="418:458" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$USER_HOME$/Desktop/SkullGame/SkullGame/LivingCurse/TheLivingCurse/Assets/Scripts/PlayerHealth.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="535">
+              <caret line="97" column="9" selection-start-line="97" selection-start-column="9" selection-end-line="97" selection-end-column="9" />
+              <folding>
+                <marker date="1581560047587" expanded="true" signature="6:66" ph="..." />
+                <marker date="1581560047587" expanded="true" signature="149:3720" ph="{...}" />
+                <marker date="1581560047587" expanded="true" signature="1049:1367" ph="/* AudioSource playerAudio;                                    // Reference to the AudioSource component. ... */" />
+                <marker date="1581560047587" expanded="true" signature="1584:1954" ph="{...}" />
+                <marker date="1581560047587" expanded="true" signature="1678:1908" ph="/* playerAudio = GetComponent &lt;AudioSource&gt; (); ... */" />
+                <marker date="1581560047587" expanded="true" signature="1975:2452" ph="{...}" />
+                <marker date="1581560047587" expanded="true" signature="2051:2190" ph="{...}" />
+                <marker date="1581560047587" expanded="true" signature="2203:2385" ph="{...}" />
+                <marker date="1581560047587" expanded="true" signature="2494:3069" ph="{...}" />
+                <marker date="1581560047587" expanded="true" signature="2791:2945" ph="/* Play the hurt sound effect. ... */" />
+                <marker date="1581560047587" expanded="true" signature="2987:3063" ph="{...}" />
+                <marker date="1581560047587" expanded="true" signature="3089:3710" ph="{...}" />
+                <marker date="1581560047587" expanded="true" signature="3198:3340" ph="/* Turn off any remaining shooting effects. ... */" />
+                <marker date="1581560047587" expanded="true" signature="3383:3613" ph="/* Set the audiosource to play the death clip and play it (this will stop the hurt sound from playing). ... */" />
               </folding>
             </state>
           </provider>
@@ -148,21 +173,6 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/Scripts that Work/MouseLook.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
-              <folding>
-                <marker date="1581350650861" expanded="true" signature="6:78" ph="..." />
-                <marker date="1581350650861" expanded="true" signature="118:761" ph="{...}" />
-                <marker date="1581350650861" expanded="true" signature="249:311" ph="{...}" />
-                <marker date="1581350650861" expanded="true" signature="335:759" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts that Work/BoolData.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state>
@@ -211,6 +221,7 @@
     <setting file="file://$USER_HOME$/Desktop/SkullGame/SkullGame/LivingCurse/TheLivingCurse/Assets/Scripts/PlayerController.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts that Work/MouseLook.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$USER_HOME$/Desktop/SkullGame/SkullGame/LivingCurse/TheLivingCurse/Assets/Scripts/LightChanger.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/Desktop/SkullGame/SkullGame/LivingCurse/TheLivingCurse/Assets/Scripts/PlayerHealth.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts that Work/Collison.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts that Work/CheckBoolData.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts that Work/NameID.cs" root0="FORCE_HIGHLIGHTING" />
@@ -263,6 +274,7 @@
         <option value="$PROJECT_DIR$/Assets/Scripts that Work/CameraLookAt.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts that Work/Attck.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts that Work/Healthy.cs" />
+        <option value="$USER_HOME$/Desktop/SkullGame/SkullGame/LivingCurse/TheLivingCurse/Assets/Scripts/PlayerHealth.cs" />
       </list>
     </option>
   </component>
@@ -285,9 +297,9 @@
     </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="356" />
-    <option name="y" value="23" />
-    <option name="width" value="868" />
+    <option name="x" value="-9" />
+    <option name="y" value="102" />
+    <option name="width" value="1449" />
     <option name="height" value="802" />
   </component>
   <component name="ProjectId" id="1WoE0oP9jmDTUEnhqwZ1BIsGiBd" />
@@ -386,12 +398,12 @@
       <workItem from="1581429267048" duration="294000" />
       <workItem from="1581429585097" duration="963000" />
       <workItem from="1581447531765" duration="85000" />
-      <workItem from="1581447639284" duration="2809000" />
+      <workItem from="1581447639284" duration="5116000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10000000" />
+    <option name="totallyTimeSpent" value="12307000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -403,10 +415,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="356" y="23" width="868" height="802" extended-state="0" />
+    <frame x="-9" y="102" width="1449" height="802" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29661018" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17412935" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -663,6 +675,29 @@
             <marker date="1581550921998" expanded="true" signature="292:464" ph="{...}" />
             <marker date="1581550921998" expanded="true" signature="352:405" ph="{...}" />
             <marker date="1581550921998" expanded="true" signature="418:458" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/SkullGame/SkullGame/LivingCurse/TheLivingCurse/Assets/Scripts/PlayerHealth.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="535">
+          <caret line="97" column="9" selection-start-line="97" selection-start-column="9" selection-end-line="97" selection-end-column="9" />
+          <folding>
+            <marker date="1581560047587" expanded="true" signature="6:66" ph="..." />
+            <marker date="1581560047587" expanded="true" signature="149:3720" ph="{...}" />
+            <marker date="1581560047587" expanded="true" signature="1049:1367" ph="/* AudioSource playerAudio;                                    // Reference to the AudioSource component. ... */" />
+            <marker date="1581560047587" expanded="true" signature="1584:1954" ph="{...}" />
+            <marker date="1581560047587" expanded="true" signature="1678:1908" ph="/* playerAudio = GetComponent &lt;AudioSource&gt; (); ... */" />
+            <marker date="1581560047587" expanded="true" signature="1975:2452" ph="{...}" />
+            <marker date="1581560047587" expanded="true" signature="2051:2190" ph="{...}" />
+            <marker date="1581560047587" expanded="true" signature="2203:2385" ph="{...}" />
+            <marker date="1581560047587" expanded="true" signature="2494:3069" ph="{...}" />
+            <marker date="1581560047587" expanded="true" signature="2791:2945" ph="/* Play the hurt sound effect. ... */" />
+            <marker date="1581560047587" expanded="true" signature="2987:3063" ph="{...}" />
+            <marker date="1581560047587" expanded="true" signature="3089:3710" ph="{...}" />
+            <marker date="1581560047587" expanded="true" signature="3198:3340" ph="/* Turn off any remaining shooting effects. ... */" />
+            <marker date="1581560047587" expanded="true" signature="3383:3613" ph="/* Set the audiosource to play the death clip and play it (this will stop the hurt sound from playing). ... */" />
           </folding>
         </state>
       </provider>

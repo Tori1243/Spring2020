@@ -7,6 +7,7 @@
       <e p="Assets" t="Include">
         <e p="Scripts that Work" t="Include">
           <e p="AiPlayer.cs" t="Include" />
+          <e p="Attck.cs" t="Include" />
           <e p="BoolData.cs" t="Include" />
           <e p="CameraFollows.cs" t="Include" />
           <e p="CameraLookAt.cs" t="Include" />

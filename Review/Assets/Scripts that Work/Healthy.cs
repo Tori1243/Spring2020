@@ -1,15 +1,25 @@
-﻿
-using UnityEngine;
+﻿using UnityEngine;
+using UnityEngine.Events;
 
-[CreateAssetMenu]
+public class Healthy : MonoBehaviour {
+    public UnityEvent DeathEvent;
 
-public class Healthy: ScriptableObject
-{
-    public FloatData healthData;
-    public FloatData damagerData;
-
-    public void StartDamage()
-    {
-        healthData.SetValue(damagerData);
+    public int health = 100;
+    public void ChangeHealth(int NewHealth){
+        health = health + NewHealth;
+        KillPlayer();
+    
     }
+    public void KillPlayer()
+    {
+        if (health < 0 && gameObject.tag == "Player")
+        {
+            DeathEvent.Invoke();
+        }
+        else
+        {
+            return;
+        }
+    }
+
 }

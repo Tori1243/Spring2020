@@ -32,6 +32,8 @@
             <e p="CharController.cs" t="Include" />
             <e p="CharStats.cs" t="Include" />
             <e p="Enemy.cs" t="Include" />
+            <e p="EnemyController.cs" t="Include" />
+            <e p="EnemyPatrol.cs" t="Include" />
             <e p="Interactable.cs" t="Include" />
             <e p="PlayerController.cs" t="Include" />
             <e p="PlayerManager.cs" t="Include" />

@@ -1,50 +1,58 @@
-﻿using UnityEngine;
+﻿using System;
+using UnityEngine;
+using UnityEngine.Events;
+using UnityEngine.Serialization;
 using Object = UnityEngine.Object;
 
-//Stolen from Anthony
+//Made By Anthony Romrell
 
 [ExecuteInEditMode]
 [CreateAssetMenu(menuName = "Single Variables/FloatData")]
-public class FloatData : ScriptableObject
+public class FloatData : NameID
 {
-    [SerializeField]
-    public virtual float Value { get; set; }
+    [FormerlySerializedAs("Value")] public float value;
+
 
     public void SetValue (float amount)
     {
-        Value = amount;
+        value = amount;
     }
 
     public void UpdateValue(float amount)
     {
-        Value += amount;
+        value += amount;
     }
 
-    public void UpdateValue(Object data)
+    public void IncrementValue()
     {
-        var newData = data as FloatData;
-        if (newData != null) Value += newData.Value;
+        value ++;
     }
 
-    public void SetValue(Object data)
+    public void UpdateValue(FloatData data)
     {
         var newData = data as FloatData;
-        if (newData != null) Value = newData.Value;
+        if (newData != null) value += newData.value;
     }
-    
+
+    public void SetValue(FloatData data)
+    {
+        var newData = data as FloatData;
+        if (newData != null) value = newData.value;
+    }
+
     public void CheckMinValue(float minValue)
     {
-        if (Value <= minValue)
+        if (value <= minValue)
         {
-            Value = minValue;
+            value = minValue;
         }
     }
 
     public void CheckMaxValue(float maxValue)
     {
-        if (Value >= maxValue)
+        if (value >= maxValue)
         {
-            Value = maxValue;
+            value = maxValue;
         }
     }
 }

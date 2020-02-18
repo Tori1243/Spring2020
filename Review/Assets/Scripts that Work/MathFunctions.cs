@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 
 [CreateAssetMenu]
-public class MathFunctions : DoWork
+public class MathFunctions : WorkSystem
 
 {
     public FloatData dataObj;
@@ -9,6 +9,6 @@ public class MathFunctions : DoWork
     
     public override void Work()
     {
-        dataObj.Value++;
+        dataObj.value++;
     }
 }

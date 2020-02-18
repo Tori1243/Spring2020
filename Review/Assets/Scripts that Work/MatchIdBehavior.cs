@@ -1,30 +1,24 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
+﻿using UnityEngine;
 
-public class MatchIdBehavior : MonoBehaviour
+public class MatchIdBehaviour : IDBehaviour
 {
-
-    public List<NameID> nameIds;
-    private NameID otherIDObj;
-
-    public List<DoWork> DoWorks;
+    public WorkSystemManager workSystemManagerObj;
+    private NameID otherIdObj;
     
     private void OnTriggerEnter(Collider other)
     {
-        otherIDObj = other.GetComponent<IDBehaviour>().nameIDObjs;
+        otherIdObj = other.GetComponent<IDBehaviour>().nameIDObjs;
+        CheckId();
     }
 
-    private void CheckID()
+    private void CheckId()
     {
-        foreach (var obj in nameIds)
+        foreach (var obj in workSystemManagerObj.workIdList)
         {
-            if(obj == otherIDObj)
+           
+            if (otherIdObj == obj.nameIdObj)
             {
-                foreach (var job in DoWorks)
-                {
-                    job.Work();
-                }
+                obj.workSystemObj.Work();
             }
         }
     }

@@ -13,6 +13,7 @@
           <e p="CameraLookAt.cs" t="Include" />
           <e p="CheckBoolData.cs" t="Include" />
           <e p="collison.cs" t="Include" />
+          <e p="ColorData.cs" t="Include" />
           <e p="Destroy.cs" t="Include" />
           <e p="Dialouge.cs" t="Include" />
           <e p="DragAndDestroy.cs" t="Include" />
@@ -28,6 +29,7 @@
           <e p="NameID.cs" t="Include" />
           <e p="PlayerMover.cs" t="Include" />
           <e p="SceneManager.cs" t="Include" />
+          <e p="TriggerEvents.cs" t="Include" />
           <e p="Vector3Data.cs" t="Include" />
           <e p="WorkSystem.cs" t="Include" />
           <e p="WorkSystemManager.cs" t="Include" />

@@ -47,7 +47,7 @@ public class PlayerMover : MonoBehaviour
         {
             position.y = 0;
             jumpCount = 0;
-            //transform.Rotate(rotation);
+            //transform.Rotate(RotationSpeed);
         }
         
         if (Input.GetButtonDown("Jump") && jumpCount < jumpCountMax)

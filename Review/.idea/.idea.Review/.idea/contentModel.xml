@@ -27,6 +27,7 @@
           <e p="MouseLook.cs" t="Include" />
           <e p="NameID.cs" t="Include" />
           <e p="PlayerMover.cs" t="Include" />
+          <e p="SceneManager.cs" t="Include" />
           <e p="Vector3Data.cs" t="Include" />
           <e p="WorkSystem.cs" t="Include" />
           <e p="WorkSystemManager.cs" t="Include" />

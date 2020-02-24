@@ -14,6 +14,7 @@
           <e p="CheckBoolData.cs" t="Include" />
           <e p="collison.cs" t="Include" />
           <e p="ColorData.cs" t="Include" />
+          <e p="DataStorage.cs" t="Include" />
           <e p="Destroy.cs" t="Include" />
           <e p="Dialouge.cs" t="Include" />
           <e p="DragAndDestroy.cs" t="Include" />
@@ -22,6 +23,7 @@
           <e p="Healthy.cs" t="Include" />
           <e p="IDBehaviour.cs" t="Include" />
           <e p="InstanceObject.cs" t="Include" />
+          <e p="KillEnemy.cs" t="Include" />
           <e p="LightChanger.cs" t="Include" />
           <e p="MatchIdBehavior.cs" t="Include" />
           <e p="MathFunctions.cs" t="Include" />

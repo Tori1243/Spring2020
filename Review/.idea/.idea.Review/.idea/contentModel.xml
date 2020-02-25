@@ -21,6 +21,7 @@
           <e p="FloatData.cs" t="Include" />
           <e p="FloatMathSystem.cs" t="Include" />
           <e p="GemCollector.cs" t="Include" />
+          <e p="HealthStorage.cs" t="Include" />
           <e p="Healthy.cs" t="Include" />
           <e p="IDBehaviour.cs" t="Include" />
           <e p="InstanceObject.cs" t="Include" />

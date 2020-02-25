@@ -10,7 +10,7 @@ public class SpriteRendererBehaviour : MonoBehaviour
 
     void Start()
     {
-        spriteRendererObj.GetComponent<SpriteRenderer>();
+        spriteRendererObj = GetComponent<SpriteRenderer>();
         startEvent.Invoke();
         
     }

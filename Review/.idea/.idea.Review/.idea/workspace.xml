@@ -12,7 +12,7 @@
     <session id="-1573875398">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="18" />
+          <entry key="project.closed" value="19" />
           <entry key="project.open.time.10" value="4" />
           <entry key="project.open.time.11" value="1" />
           <entry key="project.open.time.12" value="4" />
@@ -20,10 +20,11 @@
           <entry key="project.open.time.15" value="1" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.3" value="2" />
+          <entry key="project.open.time.5" value="1" />
           <entry key="project.open.time.7" value="1" />
           <entry key="project.open.time.8" value="2" />
           <entry key="project.open.time.9" value="2" />
-          <entry key="project.opened" value="19" />
+          <entry key="project.opened" value="20" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -50,13 +51,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts that Work/KillEnemy.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="240">
-              <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+              <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
               <folding>
-                <marker date="1582660125060" expanded="true" signature="58:363" ph="{...}" />
                 <marker date="1582660125060" expanded="true" signature="107:361" ph="{...}" />
                 <marker date="1582660125060" expanded="true" signature="155:355" ph="{...}" />
                 <marker date="1582660125060" expanded="true" signature="223:333" ph="{...}" />
@@ -65,19 +65,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/Scripts that Work/HealthStorage.cs">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts that Work/Teleport.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" column="25" selection-start-line="1" selection-start-column="25" selection-end-line="1" selection-end-column="25" />
-              <folding>
-                <marker date="1582660125054" expanded="true" signature="6:44" ph="..." />
-                <marker date="1582660125054" expanded="true" signature="88:546" ph="{...}" />
-                <marker date="1582660125054" expanded="true" signature="222:406" ph="{...}" />
-                <marker date="1582660125054" expanded="true" signature="318:359" ph="{...}" />
-                <marker date="1582660125054" expanded="true" signature="436:470" ph="{...}" />
-                <marker date="1582660125054" expanded="true" signature="495:543" ph="{...}" />
-              </folding>
+            <state>
+              <caret selection-end-line="17" />
             </state>
           </provider>
         </entry>
@@ -89,7 +81,6 @@
               <caret line="5" selection-start-line="5" selection-end-line="5" />
               <folding>
                 <marker date="1582659259883" expanded="true" signature="6:78" ph="..." />
-                <marker date="1582659259883" expanded="true" signature="140:1118" ph="{...}" />
                 <marker date="1582659259883" expanded="true" signature="288:396" ph="{...}" />
                 <marker date="1582659259883" expanded="true" signature="335:390" ph="{...}" />
                 <marker date="1582659259883" expanded="true" signature="423:494" ph="{...}" />
@@ -153,7 +144,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts that Work/FloatMathSystem.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
+            <state relative-caret-position="360">
               <caret line="24" column="4" selection-start-line="24" selection-start-column="4" selection-end-line="24" selection-end-column="4" />
               <folding>
                 <marker date="1582055493055" expanded="true" signature="6:58" ph="..." />
@@ -243,8 +234,6 @@
     <setting file="file://$PROJECT_DIR$/Assets/WIPScripts/Movement.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts that Work/MouseLook.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/TutorialScripts/Brackeys/EnemyPatrol.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$USER_HOME$/Desktop/SkullGame/SkullGame/LivingCurse/TheLivingCurse/Assets/Scripts/LightChanger.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$USER_HOME$/Desktop/SkullGame/SkullGame/LivingCurse/TheLivingCurse/Assets/Scripts/PlayerHealth.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts that Work/CheckBoolData.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/TutorialScripts/Brackeys/EnemyController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts that Work/DataStorage.cs" root0="FORCE_HIGHLIGHTING" />
@@ -261,13 +250,10 @@
     <setting file="file://$PROJECT_DIR$/Assets/TutorialScripts/MovementPlayer.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts that Work/TriggerEvents.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/WIPScripts/Health.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$USER_HOME$/Desktop/SkullGame/SkullGame/LivingCurse/TheLivingCurse/Library/PackageCache/com.unity.probuilder@4.2.3/Runtime/Core/VertexPositioning.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/TutorialScripts/Brackeys/PlayerStats.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts that Work/LightChanger.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts that Work/IDBehaviour.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/TutorialScripts/Brackeys/PlayerManager.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$USER_HOME$/Desktop/SkullGame/SkullGame/LivingCurse/TheLivingCurse/Assets/Scripts/PlayerController.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$USER_HOME$/Desktop/SkullGame/SkullGame/LivingCurse/TheLivingCurse/Assets/Scripts/Attack.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts that Work/Collison.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/TutorialScripts/Brackeys/Interactable.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts that Work/NameID.cs" root0="FORCE_HIGHLIGHTING" />
@@ -292,7 +278,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Assets/WIPScripts/ActionCalls.cs" />
         <option value="$PROJECT_DIR$/Assets/TutorialScripts/PlayerMovement.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts that Work/CheckBoolData.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts that Work/BoolData.cs" />
@@ -343,6 +328,7 @@
         <option value="$PROJECT_DIR$/Assets/Scripts that Work/SpriteRendererBehaviour.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts that Work/HealthStorage.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts that Work/KillEnemy.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts that Work/Teleport.cs" />
       </list>
     </option>
   </component>
@@ -365,8 +351,7 @@
     </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="3" />
-    <option name="y" value="114" />
+    <option name="y" value="36" />
     <option name="width" value="1440" />
     <option name="height" value="808" />
   </component>
@@ -377,6 +362,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="SolutionExplorer">
+        <option name="show-all-files" value="false" />
+      </pane>
       <pane id="FileSystemExplorer" />
       <pane id="UnityExplorer">
         <subPane>
@@ -399,9 +387,6 @@
           <select />
         </subPane>
         <option name="show-hidden-items" value="false" />
-      </pane>
-      <pane id="SolutionExplorer">
-        <option name="show-all-files" value="false" />
       </pane>
     </panes>
   </component>
@@ -475,12 +460,13 @@
       <workItem from="1582217208685" duration="145000" />
       <workItem from="1582227073511" duration="1221000" />
       <workItem from="1582518816111" duration="116000" />
-      <workItem from="1582659189038" duration="933000" />
+      <workItem from="1582659189038" duration="1510000" />
+      <workItem from="1582921003281" duration="5000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26015000" />
+    <option name="totallyTimeSpent" value="26597000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -492,10 +478,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="3" y="114" width="1440" height="808" extended-state="0" />
+    <frame x="0" y="36" width="1440" height="808" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19456366" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19742489" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -555,13 +541,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Assets/TutorialScripts/PlayerMovement.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/TutorialScripts/MovementPlayer.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
@@ -591,19 +570,11 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts that Work/Health.cs" />
-    <entry file="file://$USER_HOME$/Desktop/SkullGame/SkullGame/LivingCurse/TheLivingCurse/Assets/Scripts/LightChanger.cs">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$USER_HOME$/Desktop/SkullGame/SkullGame/LivingCurse/TheLivingCurse/Assets/Scripts/LightChanger.cs" />
     <entry file="file://$PROJECT_DIR$/Assets/Scripts that Work/Healthy.cs">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$USER_HOME$/Desktop/SkullGame/SkullGame/LivingCurse/TheLivingCurse/Assets/Scripts/PlayerController.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$USER_HOME$/Desktop/SkullGame/SkullGame/LivingCurse/TheLivingCurse/Assets/Scripts/PlayerController.cs" />
     <entry file="file://$PROJECT_DIR$/Assets/Scripts that Work/CameraFollows.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
@@ -612,13 +583,7 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts that Work/Math.cs" />
-    <entry file="file://$USER_HOME$/Desktop/SkullGame/SkullGame/LivingCurse/TheLivingCurse/Assets/Scripts/PlayerHealth.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1455">
-          <caret line="97" column="9" selection-start-line="97" selection-start-column="9" selection-end-line="97" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$USER_HOME$/Desktop/SkullGame/SkullGame/LivingCurse/TheLivingCurse/Assets/Scripts/PlayerHealth.cs" />
     <entry file="file://$PROJECT_DIR$/Assets/Scripts that Work/NameID.cs">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -695,9 +660,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Desktop/SkullGame/SkullGame/LivingCurse/TheLivingCurse/Assets/Scripts/Attack.cs">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$USER_HOME$/Desktop/SkullGame/SkullGame/LivingCurse/TheLivingCurse/Assets/Scripts/Attack.cs" />
     <entry file="file://$PROJECT_DIR$/Assets/TutorialScripts/Brackeys/EnemyStats.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
@@ -730,13 +693,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Desktop/SkullGame/SkullGame/LivingCurse/TheLivingCurse/Library/PackageCache/com.unity.probuilder@4.2.3/Runtime/Core/VertexPositioning.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1631">
-          <caret line="8" column="17" lean-forward="true" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$USER_HOME$/Desktop/SkullGame/SkullGame/LivingCurse/TheLivingCurse/Library/PackageCache/com.unity.probuilder@4.2.3/Runtime/Core/VertexPositioning.cs" />
     <entry file="file://$PROJECT_DIR$/Assets/Scripts that Work/MatchIdBehavior.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
@@ -769,9 +726,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
-          <folding>
-            <marker date="1582228010557" expanded="true" signature="112:152" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -779,10 +733,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
           <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
-          <folding>
-            <marker date="1582227357763" expanded="true" signature="6:53" ph="..." />
-            <marker date="1582227357763" expanded="true" signature="165:258" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -790,11 +740,66 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
           <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts that Work/KillEnemy.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
           <folding>
-            <marker date="1582227478955" expanded="true" signature="6:51" ph="..." />
-            <marker date="1582227478955" expanded="true" signature="187:622" ph="{...}" />
-            <marker date="1582227478955" expanded="true" signature="281:395" ph="{...}" />
-            <marker date="1582227478955" expanded="true" signature="422:620" ph="{...}" />
+            <marker date="1582660125060" expanded="true" signature="107:361" ph="{...}" />
+            <marker date="1582660125060" expanded="true" signature="155:355" ph="{...}" />
+            <marker date="1582660125060" expanded="true" signature="223:333" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts that Work/HealthStorage.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="25" selection-start-line="1" selection-start-column="25" selection-end-line="1" selection-end-column="25" />
+          <folding>
+            <marker date="1582660125054" expanded="true" signature="6:44" ph="..." />
+            <marker date="1582660125054" expanded="true" signature="88:546" ph="{...}" />
+            <marker date="1582660125054" expanded="true" signature="222:406" ph="{...}" />
+            <marker date="1582660125054" expanded="true" signature="318:359" ph="{...}" />
+            <marker date="1582660125054" expanded="true" signature="436:470" ph="{...}" />
+            <marker date="1582660125054" expanded="true" signature="495:543" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts that Work/GemCollector.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+          <folding>
+            <marker date="1582659259883" expanded="true" signature="6:78" ph="..." />
+            <marker date="1582659259883" expanded="true" signature="288:396" ph="{...}" />
+            <marker date="1582659259883" expanded="true" signature="335:390" ph="{...}" />
+            <marker date="1582659259883" expanded="true" signature="423:494" ph="{...}" />
+            <marker date="1582659259883" expanded="true" signature="539:814" ph="{...}" />
+            <marker date="1582659259883" expanded="true" signature="618:808" ph="{...}" />
+            <marker date="1582659259883" expanded="true" signature="701:798" ph="{...}" />
+            <marker date="1582659259883" expanded="true" signature="845:969" ph="{...}" />
+            <marker date="1582659259883" expanded="true" signature="890:936" ph="{...}" />
+            <marker date="1582659259883" expanded="true" signature="1013:1116" ph="{...}" />
+            <marker date="1582659259883" expanded="true" signature="1058:1110" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts that Work/SpriteRendererBehaviour.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+          <folding>
+            <marker date="1582659734689" expanded="true" signature="6:44" ph="..." />
+            <marker date="1582659734689" expanded="true" signature="141:592" ph="{...}" />
+            <marker date="1582659734689" expanded="true" signature="276:386" ph="{...}" />
+            <marker date="1582659734689" expanded="true" signature="445:511" ph="{...}" />
+            <marker date="1582659734689" expanded="true" signature="569:590" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -826,7 +831,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts that Work/FloatMathSystem.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
+        <state relative-caret-position="360">
           <caret line="24" column="4" selection-start-line="24" selection-start-column="4" selection-end-line="24" selection-end-column="4" />
           <folding>
             <marker date="1582055493055" expanded="true" signature="6:58" ph="..." />
@@ -887,66 +892,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts that Work/GemCollector.cs">
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts that Work/Teleport.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-          <folding>
-            <marker date="1582659259883" expanded="true" signature="6:78" ph="..." />
-            <marker date="1582659259883" expanded="true" signature="140:1118" ph="{...}" />
-            <marker date="1582659259883" expanded="true" signature="288:396" ph="{...}" />
-            <marker date="1582659259883" expanded="true" signature="335:390" ph="{...}" />
-            <marker date="1582659259883" expanded="true" signature="423:494" ph="{...}" />
-            <marker date="1582659259883" expanded="true" signature="539:814" ph="{...}" />
-            <marker date="1582659259883" expanded="true" signature="618:808" ph="{...}" />
-            <marker date="1582659259883" expanded="true" signature="701:798" ph="{...}" />
-            <marker date="1582659259883" expanded="true" signature="845:969" ph="{...}" />
-            <marker date="1582659259883" expanded="true" signature="890:936" ph="{...}" />
-            <marker date="1582659259883" expanded="true" signature="1013:1116" ph="{...}" />
-            <marker date="1582659259883" expanded="true" signature="1058:1110" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts that Work/SpriteRendererBehaviour.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="28" selection-start-line="28" selection-end-line="28" />
-          <folding>
-            <marker date="1582659734689" expanded="true" signature="6:44" ph="..." />
-            <marker date="1582659734689" expanded="true" signature="141:592" ph="{...}" />
-            <marker date="1582659734689" expanded="true" signature="276:386" ph="{...}" />
-            <marker date="1582659734689" expanded="true" signature="445:511" ph="{...}" />
-            <marker date="1582659734689" expanded="true" signature="569:590" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts that Work/HealthStorage.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="25" selection-start-line="1" selection-start-column="25" selection-end-line="1" selection-end-column="25" />
-          <folding>
-            <marker date="1582660125054" expanded="true" signature="6:44" ph="..." />
-            <marker date="1582660125054" expanded="true" signature="88:546" ph="{...}" />
-            <marker date="1582660125054" expanded="true" signature="222:406" ph="{...}" />
-            <marker date="1582660125054" expanded="true" signature="318:359" ph="{...}" />
-            <marker date="1582660125054" expanded="true" signature="436:470" ph="{...}" />
-            <marker date="1582660125054" expanded="true" signature="495:543" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts that Work/KillEnemy.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
-          <folding>
-            <marker date="1582660125060" expanded="true" signature="58:363" ph="{...}" />
-            <marker date="1582660125060" expanded="true" signature="107:361" ph="{...}" />
-            <marker date="1582660125060" expanded="true" signature="155:355" ph="{...}" />
-            <marker date="1582660125060" expanded="true" signature="223:333" ph="{...}" />
-          </folding>
+        <state>
+          <caret selection-end-line="17" />
         </state>
       </provider>
     </entry>

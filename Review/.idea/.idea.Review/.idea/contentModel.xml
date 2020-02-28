@@ -34,6 +34,7 @@
           <e p="PlayerMover.cs" t="Include" />
           <e p="SceneManager.cs" t="Include" />
           <e p="SpriteRendererBehaviour.cs" t="Include" />
+          <e p="Teleport.cs" t="Include" />
           <e p="TriggerEvents.cs" t="Include" />
           <e p="Vector3Data.cs" t="Include" />
           <e p="WorkSystem.cs" t="Include" />

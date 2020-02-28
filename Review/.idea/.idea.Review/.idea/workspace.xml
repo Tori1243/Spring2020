@@ -12,7 +12,7 @@
     <session id="-1573875398">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="19" />
+          <entry key="project.closed" value="20" />
           <entry key="project.open.time.10" value="4" />
           <entry key="project.open.time.11" value="1" />
           <entry key="project.open.time.12" value="4" />
@@ -70,6 +70,10 @@
           <provider selected="true" editor-type-id="text-editor">
             <state>
               <caret selection-end-line="17" />
+              <folding>
+                <marker date="1582921007547" expanded="true" signature="58:527" ph="{...}" />
+                <marker date="1582921007547" expanded="true" signature="144:525" ph="{...}" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -144,7 +148,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts that Work/FloatMathSystem.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
+            <state>
               <caret line="24" column="4" selection-start-line="24" selection-start-column="4" selection-end-line="24" selection-end-column="4" />
               <folding>
                 <marker date="1582055493055" expanded="true" signature="6:58" ph="..." />
@@ -244,6 +248,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/TutorialScripts/Brackeys/CharStats.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts that Work/HealthStorage.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/TutorialScripts/Brackeys/CharController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts that Work/Teleport.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/TutorialScripts/Brackeys/CharCombat.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts that Work/WorkSystem.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/WIPScripts/FlippityFlip.cs" root0="FORCE_HIGHLIGHTING" />
@@ -351,7 +356,7 @@
     </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="y" value="36" />
+    <option name="y" value="91" />
     <option name="width" value="1440" />
     <option name="height" value="808" />
   </component>
@@ -461,12 +466,12 @@
       <workItem from="1582227073511" duration="1221000" />
       <workItem from="1582518816111" duration="116000" />
       <workItem from="1582659189038" duration="1510000" />
-      <workItem from="1582921003281" duration="5000" />
+      <workItem from="1582921003281" duration="56000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26597000" />
+    <option name="totallyTimeSpent" value="26648000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -478,7 +483,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="36" width="1440" height="808" extended-state="0" />
+    <frame x="0" y="91" width="1440" height="808" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19742489" />
@@ -831,7 +836,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts that Work/FloatMathSystem.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
+        <state>
           <caret line="24" column="4" selection-start-line="24" selection-start-column="4" selection-end-line="24" selection-end-column="4" />
           <folding>
             <marker date="1582055493055" expanded="true" signature="6:58" ph="..." />
@@ -896,6 +901,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret selection-end-line="17" />
+          <folding>
+            <marker date="1582921007547" expanded="true" signature="58:527" ph="{...}" />
+            <marker date="1582921007547" expanded="true" signature="144:525" ph="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>

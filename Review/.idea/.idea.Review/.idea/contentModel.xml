@@ -41,6 +41,7 @@
           <e p="WorkSystemManager.cs" t="Include" />
         </e>
         <e p="TutorialScripts" t="Include">
+          <e p="AttackEnemy.cs" t="Include" />
           <e p="Brackeys" t="Include">
             <e p="CharCombat.cs" t="Include" />
             <e p="CharController.cs" t="Include" />
@@ -55,6 +56,7 @@
             <e p="PlayerStats.cs" t="Include" />
             <e p="Stats.cs" t="Include" />
           </e>
+          <e p="EnemyAttack.cs" t="Include" />
           <e p="MovementPlayer.cs" t="Include" />
           <e p="PlayerMovement.cs" t="Include" />
         </e>

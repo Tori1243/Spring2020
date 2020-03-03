@@ -36,6 +36,8 @@
           <e p="SpriteRendererBehaviour.cs" t="Include" />
           <e p="Teleport.cs" t="Include" />
           <e p="TriggerEvents.cs" t="Include" />
+          <e p="UpdateValue.cs" t="Include" />
+          <e p="ValueManager.cs" t="Include" />
           <e p="Vector3Data.cs" t="Include" />
           <e p="WorkSystem.cs" t="Include" />
           <e p="WorkSystemManager.cs" t="Include" />

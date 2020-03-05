@@ -22,7 +22,7 @@ public class GemCollector : MonoBehaviour
 
     public void UseCoin()
     {
-        coinList[0].Spend();
+  //      coinList[0].Spend();
         coinList.RemoveAt(0);
     }
 
@@ -31,11 +31,11 @@ public class GemCollector : MonoBehaviour
         var number = 5;
         for (var i = 0; i < coinList.Count; i++)
         {
-            var coin = coinList[i];
-            if (coin.value > number)
+    //        var coin = coinList[i];
+        //    if (coin.value > number)
             {
-                coin.Spend();
-                coinList.Remove(coin);
+                //coin.Spend();
+                //coinList.Remove(coin);
             }
         }
     }
@@ -44,7 +44,7 @@ public class GemCollector : MonoBehaviour
     {
         foreach (var coin in coinList)
         {
-            coin.Spend();
+           // coin.Spend();
         }
 
         coinList.Clear();
@@ -54,7 +54,7 @@ public class GemCollector : MonoBehaviour
     {
         foreach (var coin in coinList)
         {
-            coin.value = value;
+          //  coin.value = value;
         }
     }
 }

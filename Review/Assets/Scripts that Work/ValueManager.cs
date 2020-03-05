@@ -9,7 +9,8 @@ public class ValueManager : MonoBehaviour
 
     public void ChangeGemTotal(float delta)
     {
-        GemTotal.Value += delta;
+       // GemTotal.Value += delta;
     }
+}
 
 

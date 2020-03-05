@@ -9,7 +9,7 @@ public class UpdateValue : ScriptableObject
     public GameObject targetObject;
     public void ChangeTargetValue(FloatData targetData)
     {
-        targetData.Value += DeltaValue.Value;
+        // targetData.Value += DeltaValue.Value;
     }
 
 }

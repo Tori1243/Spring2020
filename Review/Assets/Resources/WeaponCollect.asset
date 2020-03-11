@@ -12,4 +12,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bece6795be72c4bce96036b200d5aa07, type: 3}
   m_Name: WeaponCollect
   m_EditorClassIdentifier: 
-  CollectableList: []
+  CollectableList:
+  - {fileID: 11400000, guid: 8e4771340bf814bfb89da4090910fe5d, type: 2}

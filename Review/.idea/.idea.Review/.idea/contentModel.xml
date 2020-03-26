@@ -135,9 +135,13 @@
           </e>
         </e>
         <e p="Scripts that Work" t="Include">
+          <e p="AddPoint.cs" t="Include" />
           <e p="AiBase.cs" t="Include" />
           <e p="AiBehaviour.cs" t="Include" />
           <e p="AiBrain.cs" t="Include" />
+          <e p="AiHunt.cs" t="Include" />
+          <e p="AiIdle.cs" t="Include" />
+          <e p="AiPatrol.cs" t="Include" />
           <e p="AiPlayer.cs" t="Include" />
           <e p="Attck.cs" t="Include" />
           <e p="BoolData.cs" t="Include" />
@@ -154,6 +158,7 @@
           <e p="DragAndDestroy.cs" t="Include" />
           <e p="FloatData.cs" t="Include" />
           <e p="FloatMathSystem.cs" t="Include" />
+          <e p="GameAction.cs" t="Include" />
           <e p="GemCollector.cs" t="Include" />
           <e p="HealthStorage.cs" t="Include" />
           <e p="Healthy.cs" t="Include" />

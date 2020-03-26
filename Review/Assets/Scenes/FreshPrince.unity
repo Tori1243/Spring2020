@@ -325,6 +325,7 @@ GameObject:
   - component: {fileID: 237830809}
   - component: {fileID: 237830811}
   - component: {fileID: 237830804}
+  - component: {fileID: 237830812}
   m_Layer: 0
   m_Name: Cube
   m_TagString: Untagged
@@ -503,6 +504,19 @@ MonoBehaviour:
         m_CallState: 2
     m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine.CoreModule, Version=0.0.0.0,
       Culture=neutral, PublicKeyToken=null
+--- !u!114 &237830812
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 237830803}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8361b203797514e119c1a39f68ec2079, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  aiBrainObj: {fileID: 11400000, guid: 2660fe0b95e754e51bbde62d3492e4da, type: 2}
 --- !u!1 &255663856
 GameObject:
   m_ObjectHideFlags: 0

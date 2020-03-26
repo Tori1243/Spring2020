@@ -18,6 +18,7 @@
           <entry key="project.open.time.11" value="2" />
           <entry key="project.open.time.12" value="4" />
           <entry key="project.open.time.13" value="1" />
+          <entry key="project.open.time.14" value="1" />
           <entry key="project.open.time.15" value="2" />
           <entry key="project.open.time.2" value="3" />
           <entry key="project.open.time.3" value="3" />
@@ -25,7 +26,7 @@
           <entry key="project.open.time.7" value="1" />
           <entry key="project.open.time.8" value="2" />
           <entry key="project.open.time.9" value="2" />
-          <entry key="project.opened" value="26" />
+          <entry key="project.opened" value="27" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -52,31 +53,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/TutorialScripts/EnemyAttack.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1275">
-              <caret line="86" column="1" selection-start-line="86" selection-start-column="1" selection-end-line="86" selection-end-column="1" />
-              <folding>
-                <marker date="1583432488955" expanded="false" signature="6:44" ph="..." />
-                <marker date="1583432488955" expanded="true" signature="406:578" ph="/* PlayerHealth playerHealth;                  // Reference to the player's health. ... */" />
-                <marker date="1583432488955" expanded="true" signature="753:1025" ph="{...}" />
-                <marker date="1583432488955" expanded="true" signature="867:978" ph="/* playerHealth = player.GetComponent &lt;PlayerHealth&gt; (); ... */" />
-                <marker date="1583432488955" expanded="true" signature="1067:1269" ph="{...}" />
-                <marker date="1583432488955" expanded="true" signature="1166:1263" ph="{...}" />
-                <marker date="1583432488955" expanded="true" signature="1310:1522" ph="{...}" />
-                <marker date="1583432488955" expanded="true" signature="1408:1516" ph="{...}" />
-                <marker date="1583432488955" expanded="true" signature="1542:2149" ph="{...}" />
-                <marker date="1583432488955" expanded="true" signature="1658:1851" ph="/* If the timer exceeds the time between attacks, the player is in range and this enemy is alive... ... */" />
-                <marker date="1583432488955" expanded="true" signature="1930:2023" ph="/* If the player has zero or less health... ... */" />
-                <marker date="1583432488955" expanded="true" signature="2169:2440" ph="{...}" />
-                <marker date="1583432488955" expanded="true" signature="2233:2318" ph="/* If the player has health to lose... ... */" />
-                <marker date="1583432488955" expanded="true" signature="2341:2424" ph="/* ... damage the player. ... */" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/WIPScripts/Dialouge.cs">
           <provider selected="true" editor-type-id="text-editor">
@@ -186,17 +162,25 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts that Work/LightChanger.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="390">
               <caret line="26" column="1" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
               <folding>
-                <marker date="1584163908848" expanded="true" signature="62:668" ph="{...}" />
                 <marker date="1584163908848" expanded="true" signature="269:661" ph="{...}" />
                 <marker date="1584163908848" expanded="true" signature="342:490" ph="{...}" />
                 <marker date="1584163908848" expanded="true" signature="566:646" ph="{...}" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts that Work/Destoryer.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" column="2" lean-forward="true" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
             </state>
           </provider>
         </entry>
@@ -282,7 +266,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Assets/Scripts that Work/Math.cs" />
         <option value="$PROJECT_DIR$/Assets/TutorialScripts/Brackeys/PlayerController.cs" />
         <option value="$PROJECT_DIR$/Assets/TutorialScripts/Brackeys/PlayerManager.cs" />
         <option value="$PROJECT_DIR$/Assets/TutorialScripts/Brackeys/PlayerStats.cs" />
@@ -333,6 +316,7 @@
         <option value="$PROJECT_DIR$/Assets/WIPScripts/weapon.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts that Work/CheckForLight.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts that Work/LightChanger.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts that Work/Destoryer.cs" />
       </list>
     </option>
   </component>
@@ -354,7 +338,7 @@
       <path value="$PROJECT_DIR$/Library/PackageCache/nuget.mono-cecil@0.1.5-preview/package.json" />
     </packageJsonPaths>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="y" value="23" />
     <option name="width" value="1440" />
     <option name="height" value="808" />
@@ -366,6 +350,10 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="FileSystemExplorer" />
+      <pane id="SolutionExplorer">
+        <option name="show-all-files" value="false" />
+      </pane>
       <pane id="UnityExplorer">
         <subPane>
           <expand>
@@ -392,10 +380,6 @@
           <select />
         </subPane>
         <option name="show-hidden-items" value="false" />
-      </pane>
-      <pane id="FileSystemExplorer" />
-      <pane id="SolutionExplorer">
-        <option name="show-all-files" value="false" />
       </pane>
     </panes>
   </component>
@@ -477,11 +461,12 @@
       <workItem from="1583301418913" duration="361000" />
       <workItem from="1583432339255" duration="3783000" />
       <workItem from="1584163836275" duration="156000" />
+      <workItem from="1585192384791" duration="6000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32777000" />
+    <option name="totallyTimeSpent" value="32783000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -496,7 +481,7 @@
     <frame x="0" y="23" width="1440" height="808" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21244635" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21530758" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -556,13 +541,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Assets/TutorialScripts/Brackeys/Enemy.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="33" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/TutorialScripts/Brackeys/EnemyController.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
@@ -793,24 +771,11 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="11" column="11" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
-          <folding>
-            <marker date="1583432488972" expanded="false" signature="6:78" ph="..." />
-            <marker date="1583432488972" expanded="true" signature="268:329" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/TutorialScripts/MovementPlayer.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <marker date="1581352448320" expanded="true" signature="63:1121" ph="{...}" />
-            <marker date="1581352448320" expanded="true" signature="448:1119" ph="{...}" />
-            <marker date="1581352448320" expanded="true" signature="589:639" ph="{...}" />
-            <marker date="1581352448320" expanded="true" signature="926:1011" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/TutorialScripts/EnemyAttack.cs">
       <provider selected="true" editor-type-id="text-editor">
@@ -933,11 +898,17 @@
         <state relative-caret-position="390">
           <caret line="26" column="1" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
           <folding>
-            <marker date="1584163908848" expanded="true" signature="62:668" ph="{...}" />
             <marker date="1584163908848" expanded="true" signature="269:661" ph="{...}" />
             <marker date="1584163908848" expanded="true" signature="342:490" ph="{...}" />
             <marker date="1584163908848" expanded="true" signature="566:646" ph="{...}" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts that Work/Destoryer.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="2" lean-forward="true" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
         </state>
       </provider>
     </entry>

@@ -139,6 +139,7 @@
           <e p="AiBase.cs" t="Include" />
           <e p="AiBehaviour.cs" t="Include" />
           <e p="AiBrain.cs" t="Include" />
+          <e p="AiFollow.cs" t="Include" />
           <e p="AiHunt.cs" t="Include" />
           <e p="AiIdle.cs" t="Include" />
           <e p="AiPatrol.cs" t="Include" />
@@ -242,7 +243,9 @@
       <e p="obj" t="ExcludeRecursive" />
       <e p="packages" t="ExcludeRecursive" />
       <e p="Review.sln" t="IncludeFlat" />
-      <e p="Temp/bin" t="ExcludeRecursive" />
+      <e p="Temp" t="ExcludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+      </e>
     </e>
     <e p="$USER_HOME$/Library/Caches/Rider2018.2/extResources" t="IncludeRecursive" />
     <e p="$USER_HOME$/Library/Caches/Rider2018.2/resharper-host/local/Transient/ReSharperHost/v182/SolutionCaches/_Review.1335324326.00" t="ExcludeRecursive" />

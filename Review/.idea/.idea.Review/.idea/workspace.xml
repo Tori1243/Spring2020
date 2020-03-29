@@ -12,7 +12,7 @@
     <session id="-1573875398">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="30" />
+          <entry key="project.closed" value="31" />
           <entry key="project.open.time.1" value="2" />
           <entry key="project.open.time.10" value="5" />
           <entry key="project.open.time.11" value="2" />
@@ -166,8 +166,14 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts that Work/AiFollow.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
+            <state relative-caret-position="285">
               <caret line="20" selection-start-line="20" selection-end-line="20" />
+              <folding>
+                <marker date="1585505205835" expanded="false" signature="6:40" ph="..." />
+                <marker date="1585505205835" expanded="true" signature="120:434" ph="{...}" />
+                <marker date="1585505205835" expanded="true" signature="221:309" ph="{...}" />
+                <marker date="1585505205835" expanded="true" signature="340:432" ph="{...}" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -249,6 +255,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts that Work/AiBase.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts that Work/Teleport.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/TutorialScripts/Brackeys/CharCombat.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts that Work/AiFollow.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts that Work/WorkSystem.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/WIPScripts/FlippityFlip.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/TutorialScripts/MovementPlayer.cs" root0="FORCE_HIGHLIGHTING" />
@@ -490,12 +497,12 @@
       <workItem from="1585245226180" duration="1909000" />
       <workItem from="1585374117664" duration="481000" />
       <workItem from="1585439889924" duration="49000" />
-      <workItem from="1585505184061" duration="22000" />
+      <workItem from="1585505184061" duration="49000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35842000" />
+    <option name="totallyTimeSpent" value="35869000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -950,8 +957,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts that Work/AiFollow.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
+        <state relative-caret-position="285">
           <caret line="20" selection-start-line="20" selection-end-line="20" />
+          <folding>
+            <marker date="1585505205835" expanded="false" signature="6:40" ph="..." />
+            <marker date="1585505205835" expanded="true" signature="120:434" ph="{...}" />
+            <marker date="1585505205835" expanded="true" signature="221:309" ph="{...}" />
+            <marker date="1585505205835" expanded="true" signature="340:432" ph="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>

@@ -12,7 +12,7 @@
     <session id="-1573875398">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="31" />
+          <entry key="project.closed" value="32" />
           <entry key="project.open.time.1" value="2" />
           <entry key="project.open.time.10" value="5" />
           <entry key="project.open.time.11" value="2" />
@@ -168,6 +168,14 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="585">
               <caret line="43" column="1" selection-start-line="43" selection-start-column="1" selection-end-line="43" selection-end-column="1" />
+              <folding>
+                <marker date="1585615070268" expanded="false" signature="6:104" ph="..." />
+                <marker date="1585615070268" expanded="true" signature="148:853" ph="{...}" />
+                <marker date="1585615070268" expanded="true" signature="251:286" ph="{...}" />
+                <marker date="1585615070268" expanded="true" signature="331:428" ph="{...}" />
+                <marker date="1585615070268" expanded="true" signature="459:848" ph="{...}" />
+                <marker date="1585615070268" expanded="true" signature="486:842" ph="{...}" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -227,6 +235,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/TutorialScripts/Brackeys/EnemyPatrol.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts that Work/AiBrain.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts that Work/AiPatrol.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts that Work/StateMachine.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts that Work/CheckBoolData.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/TutorialScripts/Brackeys/EnemyController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/WIPScripts/Collectable.cs" root0="FORCE_HIGHLIGHTING" />
@@ -492,12 +501,12 @@
       <workItem from="1585374117664" duration="481000" />
       <workItem from="1585439889924" duration="49000" />
       <workItem from="1585505184061" duration="49000" />
-      <workItem from="1585615067173" duration="4000" />
+      <workItem from="1585615067173" duration="28000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35873000" />
+    <option name="totallyTimeSpent" value="35897000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -961,6 +970,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="585">
           <caret line="43" column="1" selection-start-line="43" selection-start-column="1" selection-end-line="43" selection-end-column="1" />
+          <folding>
+            <marker date="1585615070268" expanded="false" signature="6:104" ph="..." />
+            <marker date="1585615070268" expanded="true" signature="148:853" ph="{...}" />
+            <marker date="1585615070268" expanded="true" signature="251:286" ph="{...}" />
+            <marker date="1585615070268" expanded="true" signature="331:428" ph="{...}" />
+            <marker date="1585615070268" expanded="true" signature="459:848" ph="{...}" />
+            <marker date="1585615070268" expanded="true" signature="486:842" ph="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>

@@ -8,13 +8,22 @@ public class AiFollow : MonoBehaviour
     public Transform player, destination;
     private void Start()
     {
-        destination = player;
         agent = GetComponent<NavMeshAgent>();
     }
     
     private void Update()
     {
         agent.destination = destination.position;
+        
+    }
+
+    public void SawPlayer()
+    {
         destination = player;
+    }
+
+    public void LostPlayer()
+    {
+        destination = null;
     }
 }

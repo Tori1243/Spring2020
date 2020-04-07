@@ -12,7 +12,7 @@
     <session id="-1573875398">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="34" />
+          <entry key="project.closed" value="35" />
           <entry key="project.open.time.1" value="2" />
           <entry key="project.open.time.10" value="5" />
           <entry key="project.open.time.11" value="2" />
@@ -166,6 +166,18 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="826">
               <caret line="60" column="5" selection-start-line="60" selection-start-column="5" selection-end-line="60" selection-end-column="5" />
+              <folding>
+                <marker date="1586236206625" expanded="false" signature="6:104" ph="..." />
+                <marker date="1586236206625" expanded="true" signature="450:1188" ph="{...}" />
+                <marker date="1586236206625" expanded="true" signature="485:531" ph="{...}" />
+                <marker date="1586236206625" expanded="true" signature="569:615" ph="{...}" />
+                <marker date="1586236206625" expanded="true" signature="653:699" ph="{...}" />
+                <marker date="1586236206625" expanded="true" signature="737:783" ph="{...}" />
+                <marker date="1586236206625" expanded="true" signature="822:869" ph="{...}" />
+                <marker date="1586236206625" expanded="true" signature="908:967" ph="{...}" />
+                <marker date="1586236206625" expanded="true" signature="1006:1053" ph="{...}" />
+                <marker date="1586236206625" expanded="true" signature="1130:1182" ph="{...}" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -498,12 +510,12 @@
       <workItem from="1585615067173" duration="28000" />
       <workItem from="1585706385064" duration="109000" />
       <workItem from="1585889188618" duration="308000" />
-      <workItem from="1586236185456" duration="22000" />
+      <workItem from="1586236185456" duration="47000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="36336000" />
+    <option name="totallyTimeSpent" value="36361000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -958,6 +970,18 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="826">
           <caret line="60" column="5" selection-start-line="60" selection-start-column="5" selection-end-line="60" selection-end-column="5" />
+          <folding>
+            <marker date="1586236206625" expanded="false" signature="6:104" ph="..." />
+            <marker date="1586236206625" expanded="true" signature="450:1188" ph="{...}" />
+            <marker date="1586236206625" expanded="true" signature="485:531" ph="{...}" />
+            <marker date="1586236206625" expanded="true" signature="569:615" ph="{...}" />
+            <marker date="1586236206625" expanded="true" signature="653:699" ph="{...}" />
+            <marker date="1586236206625" expanded="true" signature="737:783" ph="{...}" />
+            <marker date="1586236206625" expanded="true" signature="822:869" ph="{...}" />
+            <marker date="1586236206625" expanded="true" signature="908:967" ph="{...}" />
+            <marker date="1586236206625" expanded="true" signature="1006:1053" ph="{...}" />
+            <marker date="1586236206625" expanded="true" signature="1130:1182" ph="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>

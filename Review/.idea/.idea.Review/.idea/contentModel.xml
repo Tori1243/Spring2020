@@ -150,6 +150,7 @@
           <e p="CameraLookAt.cs" t="Include" />
           <e p="CheckBoolData.cs" t="Include" />
           <e p="CheckForLight.cs" t="Include" />
+          <e p="CheckForRock.cs" t="Include" />
           <e p="collison.cs" t="Include" />
           <e p="ColorData.cs" t="Include" />
           <e p="DataStorage.cs" t="Include" />

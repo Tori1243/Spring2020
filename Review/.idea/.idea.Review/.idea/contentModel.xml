@@ -166,9 +166,11 @@
           <e p="GemCollector.cs" t="Include" />
           <e p="HealthStorage.cs" t="Include" />
           <e p="Healthy.cs" t="Include" />
+          <e p="HitBox.cs" t="Include" />
           <e p="IDBehaviour.cs" t="Include" />
           <e p="InstanceObject.cs" t="Include" />
           <e p="KillEnemy.cs" t="Include" />
+          <e p="KnockBack.cs" t="Include" />
           <e p="LightChanger.cs" t="Include" />
           <e p="MatchIdBehavior.cs" t="Include" />
           <e p="MathFunctions.cs" t="Include" />

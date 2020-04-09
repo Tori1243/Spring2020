@@ -12,7 +12,7 @@
     <session id="-1573875398">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="36" />
+          <entry key="project.closed" value="39" />
           <entry key="project.open.time.1" value="2" />
           <entry key="project.open.time.10" value="5" />
           <entry key="project.open.time.11" value="2" />
@@ -21,13 +21,13 @@
           <entry key="project.open.time.14" value="1" />
           <entry key="project.open.time.15" value="2" />
           <entry key="project.open.time.16" value="1" />
-          <entry key="project.open.time.2" value="4" />
+          <entry key="project.open.time.2" value="6" />
           <entry key="project.open.time.3" value="8" />
           <entry key="project.open.time.5" value="1" />
           <entry key="project.open.time.7" value="1" />
           <entry key="project.open.time.8" value="2" />
           <entry key="project.open.time.9" value="3" />
-          <entry key="project.opened" value="37" />
+          <entry key="project.opened" value="39" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -54,24 +54,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/Scripts that Work/YetiEarthQuake.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="9" column="37" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="37" />
-              <folding>
-                <marker date="1585439911061" expanded="false" signature="6:44" ph="..." />
-                <marker date="1585439911061" expanded="true" signature="313:463" ph="{...}" />
-                <marker date="1585439911061" expanded="true" signature="362:457" ph="{...}" />
-                <marker date="1585439911061" expanded="true" signature="496:890" ph="{...}" />
-                <marker date="1585439911061" expanded="true" signature="566:844" ph="{...}" />
-                <marker date="1585439911061" expanded="true" signature="921:1173" ph="{...}" />
-                <marker date="1585439911061" expanded="true" signature="936:1027" ph="/* TO DO: Enemy Jump animation ... */" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts that Work/AiFollow.cs">
           <provider selected="true" editor-type-id="text-editor">
@@ -168,17 +150,25 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts that Work/HitBox.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="315">
               <caret line="22" column="5" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
               <folding>
                 <marker date="1586367964074" expanded="false" signature="6:44" ph="..." />
-                <marker date="1586367964074" expanded="true" signature="130:553" ph="{...}" />
                 <marker date="1586367964074" expanded="true" signature="220:335" ph="{...}" />
                 <marker date="1586367964074" expanded="true" signature="381:546" ph="{...}" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts that Work/Counter.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="24" column="1" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -309,7 +299,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Assets/Scripts that Work/MathFunctions.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts that Work/WorkSystemManager.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts that Work/MatchIdBehavior.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts that Work/Attck.cs" />
@@ -360,6 +349,7 @@
         <option value="$PROJECT_DIR$/Assets/Scripts that Work/CheckForRock.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts that Work/KnockBack.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts that Work/HitBox.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts that Work/Counter.cs" />
       </list>
     </option>
   </component>
@@ -382,8 +372,8 @@
     </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="623" />
-    <option name="y" value="23" />
+    <option name="x" value="308" />
+    <option name="y" value="24" />
     <option name="width" value="797" />
     <option name="height" value="806" />
   </component>
@@ -515,12 +505,14 @@
       <workItem from="1585889188618" duration="308000" />
       <workItem from="1586236185456" duration="47000" />
       <workItem from="1586324273998" duration="37000" />
-      <workItem from="1586367958943" duration="6000" />
+      <workItem from="1586367958943" duration="24000" />
+      <workItem from="1586453402172" duration="7000" />
+      <workItem from="1586453419200" duration="2000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="36404000" />
+    <option name="totallyTimeSpent" value="36431000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -532,10 +524,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="623" y="23" width="797" height="806" extended-state="0" />
+    <frame x="308" y="24" width="797" height="806" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.50993377" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.53642386" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -595,13 +587,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts that Work/DataStorage.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" selection-start-line="21" selection-end-line="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts that Work/HealthStorage.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
@@ -846,12 +831,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="17" column="19" selection-start-line="17" selection-start-column="15" selection-end-line="17" selection-end-column="19" />
-          <folding>
-            <marker date="1585249597734" expanded="false" signature="9:81" ph="..." />
-            <marker date="1585249597734" expanded="true" signature="202:469" ph="{...}" />
-            <marker date="1585249597734" expanded="true" signature="290:334" ph="{...}" />
-            <marker date="1585249597734" expanded="true" signature="387:463" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -859,10 +838,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
-          <folding>
-            <marker date="1585374154070" expanded="true" signature="62:497" ph="{...}" />
-            <marker date="1585374154070" expanded="true" signature="148:495" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -953,6 +928,31 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts that Work/KnockBack.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+          <folding>
+            <marker date="1586324281795" expanded="false" signature="6:78" ph="..." />
+            <marker date="1586324281795" expanded="true" signature="119:486" ph="{...}" />
+            <marker date="1586324281795" expanded="true" signature="210:380" ph="{...}" />
+            <marker date="1586324281795" expanded="true" signature="384:484" ph="/* direction = ai.position - player.position; ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts that Work/HitBox.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="22" column="5" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+          <folding>
+            <marker date="1586367964074" expanded="false" signature="6:44" ph="..." />
+            <marker date="1586367964074" expanded="true" signature="220:335" ph="{...}" />
+            <marker date="1586367964074" expanded="true" signature="381:546" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts that Work/AiBrain.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
@@ -975,29 +975,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts that Work/KnockBack.cs">
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts that Work/Counter.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
-          <folding>
-            <marker date="1586324281795" expanded="false" signature="6:78" ph="..." />
-            <marker date="1586324281795" expanded="true" signature="119:486" ph="{...}" />
-            <marker date="1586324281795" expanded="true" signature="210:380" ph="{...}" />
-            <marker date="1586324281795" expanded="true" signature="384:484" ph="/* direction = ai.position - player.position; ... */" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts that Work/HitBox.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="22" column="5" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
-          <folding>
-            <marker date="1586367964074" expanded="false" signature="6:44" ph="..." />
-            <marker date="1586367964074" expanded="true" signature="130:553" ph="{...}" />
-            <marker date="1586367964074" expanded="true" signature="220:335" ph="{...}" />
-            <marker date="1586367964074" expanded="true" signature="381:546" ph="{...}" />
-          </folding>
+        <state relative-caret-position="360">
+          <caret line="24" column="1" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
         </state>
       </provider>
     </entry>

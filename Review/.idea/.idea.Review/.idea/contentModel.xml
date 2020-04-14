@@ -153,12 +153,14 @@
           <e p="CheckForRock.cs" t="Include" />
           <e p="collison.cs" t="Include" />
           <e p="ColorData.cs" t="Include" />
+          <e p="Counter.cs" t="Include" />
           <e p="DataStorage.cs" t="Include" />
           <e p="Destoryer.cs" t="Include" />
           <e p="Destroy.cs" t="Include" />
           <e p="Dialouge.cs" t="Include" />
           <e p="DragAndDestroy.cs" t="Include" />
           <e p="DropCoins.cs" t="Include" />
+          <e p="EnemyAttack.cs" t="Include" />
           <e p="Eyes.cs" t="Include" />
           <e p="FloatData.cs" t="Include" />
           <e p="FloatMathSystem.cs" t="Include" />

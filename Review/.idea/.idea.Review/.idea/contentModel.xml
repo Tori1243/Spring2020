@@ -136,6 +136,7 @@
         </e>
         <e p="Scripts that Work" t="Include">
           <e p="AddPoint.cs" t="Include" />
+          <e p="AddToCollections.cs" t="Include" />
           <e p="AiBase.cs" t="Include" />
           <e p="AiBehaviour.cs" t="Include" />
           <e p="AiBrain.cs" t="Include" />
@@ -161,6 +162,7 @@
           <e p="DragAndDestroy.cs" t="Include" />
           <e p="DropCoins.cs" t="Include" />
           <e p="EnemyAttack.cs" t="Include" />
+          <e p="EventRepeat.cs" t="Include" />
           <e p="Eyes.cs" t="Include" />
           <e p="FloatData.cs" t="Include" />
           <e p="FloatMathSystem.cs" t="Include" />

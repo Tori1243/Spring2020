@@ -135,8 +135,10 @@
           </e>
         </e>
         <e p="Scripts that Work" t="Include">
+          <e p="AddMoney.cs" t="Include" />
           <e p="AddPoint.cs" t="Include" />
           <e p="AddToCollections.cs" t="Include" />
+          <e p="AddValue.cs" t="Include" />
           <e p="AiBase.cs" t="Include" />
           <e p="AiBehaviour.cs" t="Include" />
           <e p="AiBrain.cs" t="Include" />

@@ -181,6 +181,7 @@
           <e p="MatchIdBehavior.cs" t="Include" />
           <e p="MathFunctions.cs" t="Include" />
           <e p="MouseLook.cs" t="Include" />
+          <e p="MusicControl.cs" t="Include" />
           <e p="NameID.cs" t="Include" />
           <e p="PlayerMover.cs" t="Include" />
           <e p="Restart.cs" t="Include" />
@@ -194,6 +195,7 @@
           <e p="ValueChange.cs" t="Include" />
           <e p="ValueManager.cs" t="Include" />
           <e p="Vector3Data.cs" t="Include" />
+          <e p="WaitForTimeSec.cs" t="Include" />
           <e p="WorkSystem.cs" t="Include" />
           <e p="WorkSystemManager.cs" t="Include" />
           <e p="YetiEarthQuake.cs" t="Include" />

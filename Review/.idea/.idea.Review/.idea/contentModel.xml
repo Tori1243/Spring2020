@@ -136,6 +136,7 @@
         </e>
         <e p="Scripts that Work" t="Include">
           <e p="ActionCalls.cs" t="Include" />
+          <e p="ActivateSword.cs" t="Include" />
           <e p="AddMoney.cs" t="Include" />
           <e p="AddPoint.cs" t="Include" />
           <e p="AddToCollections.cs" t="Include" />
@@ -178,6 +179,7 @@
           <e p="HitBox.cs" t="Include" />
           <e p="IDBehaviour.cs" t="Include" />
           <e p="InstanceObject.cs" t="Include" />
+          <e p="InteractEvent.cs" t="Include" />
           <e p="KillEnemy.cs" t="Include" />
           <e p="KnockBack.cs" t="Include" />
           <e p="LightChanger.cs" t="Include" />

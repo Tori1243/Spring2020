@@ -1,18 +1,21 @@
 ﻿using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 
-public class Animator : MonoBehaviour
+public class Animator: MonoBehaviour, IEnumerable
 {
-    // Start is called before the first frame update
+    public Animation anim;
+
     void Start()
     {
-        
+        anim = GetComponent<Animation>();
+        foreach (AnimationState state in anim)
+        {
+            state.speed = 0.5F;
+        }
     }
 
-    // Update is called once per frame
-    void Update()
+    public IEnumerator GetEnumerator()
     {
-        
+        throw new System.NotImplementedException();
     }
 }

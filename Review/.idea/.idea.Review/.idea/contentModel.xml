@@ -148,6 +148,7 @@
           <e p="AiIdle.cs" t="Include" />
           <e p="AiPatrol.cs" t="Include" />
           <e p="AiPlayer.cs" t="Include" />
+          <e p="Animator.cs" t="Include" />
           <e p="Attck.cs" t="Include" />
           <e p="BoolData.cs" t="Include" />
           <e p="CameraFollows.cs" t="Include" />

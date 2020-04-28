@@ -180,6 +180,7 @@
           <e p="IDBehaviour.cs" t="Include" />
           <e p="InstanceObject.cs" t="Include" />
           <e p="InteractEvent.cs" t="Include" />
+          <e p="InteractScript.cs" t="Include" />
           <e p="KillEnemy.cs" t="Include" />
           <e p="KnockBack.cs" t="Include" />
           <e p="LightChanger.cs" t="Include" />
@@ -187,6 +188,7 @@
           <e p="MathFunctions.cs" t="Include" />
           <e p="MouseLook.cs" t="Include" />
           <e p="MusicControl.cs" t="Include" />
+          <e p="MusicController.cs" t="Include" />
           <e p="NameID.cs" t="Include" />
           <e p="PlayerMover.cs" t="Include" />
           <e p="Restart.cs" t="Include" />
@@ -196,6 +198,7 @@
           <e p="Teleport.cs" t="Include" />
           <e p="TeleportSpot.cs" t="Include" />
           <e p="TriggerEvents.cs" t="Include" />
+          <e p="TriggerLineUp.cs" t="Include" />
           <e p="UpdateValue.cs" t="Include" />
           <e p="ValueChange.cs" t="Include" />
           <e p="ValueManager.cs" t="Include" />

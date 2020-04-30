@@ -192,6 +192,7 @@
           <e p="NameID.cs" t="Include" />
           <e p="PlayerMover.cs" t="Include" />
           <e p="Quit.cs" t="Include" />
+          <e p="RaycastExample.cs" t="Include" />
           <e p="Restart.cs" t="Include" />
           <e p="SceneManager.cs" t="Include" />
           <e p="Shield.cs" t="Include" />

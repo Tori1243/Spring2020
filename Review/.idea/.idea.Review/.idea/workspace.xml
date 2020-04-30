@@ -12,7 +12,7 @@
     <session id="-1573875398">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="46" />
+          <entry key="project.closed" value="47" />
           <entry key="project.open.time.1" value="3" />
           <entry key="project.open.time.10" value="7" />
           <entry key="project.open.time.11" value="2" />
@@ -374,7 +374,7 @@
       <path value="$PROJECT_DIR$/Library/PackageCache/nuget.mono-cecil@0.1.5-preview/package.json" />
     </packageJsonPaths>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="x" value="310" />
     <option name="y" value="73" />
     <option name="width" value="1130" />
@@ -518,12 +518,12 @@
       <workItem from="1587606605073" duration="142000" />
       <workItem from="1587678030498" duration="4000" />
       <workItem from="1587678062088" duration="49000" />
-      <workItem from="1588094491641" duration="81000" />
+      <workItem from="1588094491641" duration="204000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="37141000" />
+    <option name="totallyTimeSpent" value="37264000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -535,8 +535,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="310" y="73" width="1130" height="756" extended-state="0" />
-    <editor active="true" />
+    <frame x="310" y="73" width="1130" height="756" extended-state="1" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.44025734" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />

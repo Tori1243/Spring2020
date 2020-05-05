@@ -154,6 +154,7 @@
           <e p="BoolData.cs" t="Include" />
           <e p="CameraFollows.cs" t="Include" />
           <e p="CameraLookAt.cs" t="Include" />
+          <e p="CharacterMove.cs" t="Include" />
           <e p="CheckBoolData.cs" t="Include" />
           <e p="CheckForLight.cs" t="Include" />
           <e p="CheckForRock.cs" t="Include" />
@@ -172,6 +173,7 @@
           <e p="Eyes.cs" t="Include" />
           <e p="FloatData.cs" t="Include" />
           <e p="FloatMathSystem.cs" t="Include" />
+          <e p="FollowMouse.cs" t="Include" />
           <e p="GameAction.cs" t="Include" />
           <e p="GemCollector.cs" t="Include" />
           <e p="HealthStorage.cs" t="Include" />
